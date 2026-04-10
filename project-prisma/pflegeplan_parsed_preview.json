@@ -1,0 +1,3357 @@
+[
+  {
+    "row_index": 90,
+    "title": "Infusionen 15/18/25",
+    "status": "Aktiv",
+    "row_type": "paket",
+    "indent_level": 2,
+    "package": "Infusionen 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 91,
+    "title": "Infusion mit Zusatz verabreichen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Infusionen 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 07:00 Uhr",
+    "zyklus_info": {
+      "raw": "1x tgl. 07:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [
+        "07:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 92,
+    "title": "Antibiotikum",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "Infusionen 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Infusion mit Zusatz verabreichen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 93,
+    "title": "Infusion mit Zusatz verabreichen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Infusionen 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "2x pro Tag 07:00/19:00 Uhr",
+    "zyklus_info": {
+      "raw": "2x pro Tag 07:00/19:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 2,
+      "times": [
+        "07:00",
+        "19:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 94,
+    "title": "Antibiotikum",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "Infusionen 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Infusion mit Zusatz verabreichen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 95,
+    "title": "Infusion mit Zusatz verabreichen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Infusionen 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 07:00/15:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 07:00/15:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "07:00",
+        "15:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 96,
+    "title": "Antibiotikum",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "Infusionen 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Infusion mit Zusatz verabreichen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 97,
+    "title": "Verband Katheter/Kanüle wechseln",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Infusionen 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 10:00 Uhr",
+    "zyklus_info": {
+      "raw": "1x tgl. 10:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [
+        "10:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 98,
+    "title": "Piccline",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "Infusionen 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Verband Katheter/Kanüle wechseln",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 99,
+    "title": "VAC 15/18/25",
+    "status": "Aktiv",
+    "row_type": "paket",
+    "indent_level": 2,
+    "package": "VAC 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 100,
+    "title": "Drainage überwachen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "VAC 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 08:00/16:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 08:00/16:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "08:00",
+        "16:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 101,
+    "title": "mit VAC Pumpe",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "VAC 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Drainage überwachen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 102,
+    "title": "VAC rechts",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "VAC 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Drainage überwachen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 103,
+    "title": "Sekret-/Drainagebehälter leeren/wechseln",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "VAC 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 8 Uhr (MO, MI, FR)",
+    "zyklus_info": {
+      "raw": "1x tgl. 8 Uhr (MO, MI, FR)",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [],
+      "interval_hours": null,
+      "notes": "1x tgl. 8 Uhr (MO, MI, FR)"
+    }
+  },
+  {
+    "row_index": 104,
+    "title": "mit VAC Pumpe",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "VAC 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Sekret-/Drainagebehälter leeren/wechseln",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 105,
+    "title": "Sonstige Drainage",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "VAC 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Sekret-/Drainagebehälter leeren/wechseln",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 106,
+    "title": "Drainage überwachen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "VAC 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 08:00/16:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 08:00/16:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "08:00",
+        "16:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 107,
+    "title": "mit VAC Pumpe",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "VAC 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Drainage überwachen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 108,
+    "title": "VAC links",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "VAC 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Drainage überwachen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 109,
+    "title": "Sekret-/Drainagebehälter leeren/wechseln",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "VAC 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 8 Uhr (MO, MI, FR)",
+    "zyklus_info": {
+      "raw": "1x tgl. 8 Uhr (MO, MI, FR)",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [],
+      "interval_hours": null,
+      "notes": "1x tgl. 8 Uhr (MO, MI, FR)"
+    }
+  },
+  {
+    "row_index": 110,
+    "title": "mit VAC Pumpe",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "VAC 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Sekret-/Drainagebehälter leeren/wechseln",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 111,
+    "title": "Vac rechts",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "VAC 15/18/25",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Sekret-/Drainagebehälter leeren/wechseln",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 112,
+    "title": "Tagesroutine",
+    "status": "Aktiv",
+    "row_type": "paket",
+    "indent_level": 2,
+    "package": "Tagesroutine",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 113,
+    "title": "Bett zurechtmachen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Tagesroutine",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 08:00 Uhr",
+    "zyklus_info": {
+      "raw": "1x tgl. 08:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [
+        "08:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 114,
+    "title": "Bettwäsche wechseln",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Tagesroutine",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 08:00 Uhr",
+    "zyklus_info": {
+      "raw": "1x tgl. 08:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [
+        "08:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 115,
+    "title": "Blutentnahme aus Kanüle/Katheter durchführen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Tagesroutine",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 08:00 Uhr",
+    "zyklus_info": {
+      "raw": "1x tgl. 08:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [
+        "08:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 116,
+    "title": "Blutentnahme assistieren",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Tagesroutine",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 08:00 Uhr",
+    "zyklus_info": {
+      "raw": "1x tgl. 08:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [
+        "08:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 118,
+    "title": "Getränk bereitstellen/abräumen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Tagesroutine",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "4x pro Tag zur Essenszeit",
+    "zyklus_info": {
+      "raw": "4x pro Tag zur Essenszeit",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 4,
+      "times": [],
+      "interval_hours": null,
+      "notes": "4x pro Tag zur Essenszeit"
+    }
+  },
+  {
+    "row_index": 121,
+    "title": "Injektion s.c. verabreichen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Tagesroutine",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 18:00 Uhr",
+    "zyklus_info": {
+      "raw": "1x tgl. 18:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [
+        "18:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 122,
+    "title": "Antikoagulation",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "Tagesroutine",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Injektion s.c. verabreichen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 123,
+    "title": "Mahlzeit bereitstellen/abräumen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Tagesroutine",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "4x pro Tag zur Essenszeit",
+    "zyklus_info": {
+      "raw": "4x pro Tag zur Essenszeit",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 4,
+      "times": [],
+      "interval_hours": null,
+      "notes": "4x pro Tag zur Essenszeit"
+    }
+  },
+  {
+    "row_index": 124,
+    "title": "Medikament peroral verabreichen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Tagesroutine",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 08:00/16:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 08:00/16:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "08:00",
+        "16:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 125,
+    "title": "Material für Arztverrichtung vor-/nachbereiten",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Tagesroutine",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 08:00 Uhr",
+    "zyklus_info": {
+      "raw": "1x tgl. 08:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [
+        "08:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 126,
+    "title": "Patientendokumentation führen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Tagesroutine",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 08:00/16:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 08:00/16:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "08:00",
+        "16:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 127,
+    "title": "Vitalzeichen messen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Tagesroutine",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 07:00/15:00/21:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 07:00/15:00/21:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "07:00",
+        "15:00",
+        "21:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 128,
+    "title": "Visite mit Ärztin/Behandlungsteam durchführen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Tagesroutine",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 10:00 Uhr",
+    "zyklus_info": {
+      "raw": "1x tgl. 10:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [
+        "10:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 129,
+    "title": "Venöse Blutentnahme durchführen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Tagesroutine",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 08:00 Uhr",
+    "zyklus_info": {
+      "raw": "1x tgl. 08:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [
+        "08:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 130,
+    "title": "nächtlicher Rundgang",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Tagesroutine",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "5x pro Tag nachts 21, 23, 01, 03, 05",
+    "zyklus_info": {
+      "raw": "5x pro Tag nachts 21, 23, 01, 03, 05",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 5,
+      "times": [],
+      "interval_hours": null,
+      "notes": "5x pro Tag nachts 21, 23, 01, 03, 05"
+    }
+  },
+  {
+    "row_index": 131,
+    "title": "EQS Pneu",
+    "status": "Aktiv",
+    "row_type": "paket",
+    "indent_level": 2,
+    "package": "EQS Pneu",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 132,
+    "title": "Atmung überwachen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "EQS Pneu",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "Zyklus für die EQS-Erfassung: Tage 1/3/7",
+    "zyklus_info": {
+      "raw": "Zyklus für die EQS-Erfassung: Tage 1/3/7",
+      "kind": "sonderzyklus",
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": "Zyklus für die EQS-Erfassung: Tage 1/3/7"
+    }
+  },
+  {
+    "row_index": 133,
+    "title": "Atemfrequenz",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "EQS Pneu",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Atmung überwachen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 134,
+    "title": "Sauerstoffsättigung überwachen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "EQS Pneu",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "Zyklus für die EQS-Erfassung: Tage 1/3/7",
+    "zyklus_info": {
+      "raw": "Zyklus für die EQS-Erfassung: Tage 1/3/7",
+      "kind": "sonderzyklus",
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": "Zyklus für die EQS-Erfassung: Tage 1/3/7"
+    }
+  },
+  {
+    "row_index": 135,
+    "title": "Vitalzeichen messen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "EQS Pneu",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "Zyklus für die EQS-Erfassung: Tage 1/3/7",
+    "zyklus_info": {
+      "raw": "Zyklus für die EQS-Erfassung: Tage 1/3/7",
+      "kind": "sonderzyklus",
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": "Zyklus für die EQS-Erfassung: Tage 1/3/7"
+    }
+  },
+  {
+    "row_index": 136,
+    "title": "Puls messen",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "EQS Pneu",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Vitalzeichen messen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 137,
+    "title": "Blutdruck messen",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "EQS Pneu",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Vitalzeichen messen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 138,
+    "title": "Körpertemperatur messen",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "EQS Pneu",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Vitalzeichen messen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 247,
+    "title": "10 Dekubitus/Wunde (PMD)",
+    "status": "Aktiv",
+    "row_type": "paket",
+    "indent_level": 2,
+    "package": "10 Dekubitus/Wunde (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 248,
+    "title": "Dekubitsrisiko (Experteneinschätzung): Weitere Risikoindikatoren vorhanden [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "10 Dekubitus/Wunde (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 249,
+    "title": "Dekubitus Kategorie/ Stadium III",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "10 Dekubitus/Wunde (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 250,
+    "title": "Wunde [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "10 Dekubitus/Wunde (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 251,
+    "title": "Dekubitusrisiko (Braden): hoch [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "10 Dekubitus/Wunde (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 252,
+    "title": "Dekubitusrisiko: Experteneinschätz = Ja",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "10 Dekubitus/Wunde (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 253,
+    "title": "Wunde versorgen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "10 Dekubitus/Wunde (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 08:00 Uhr",
+    "zyklus_info": {
+      "raw": "1x tgl. 08:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [
+        "08:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 254,
+    "title": "Wunde..",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "10 Dekubitus/Wunde (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": "Wunde versorgen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 255,
+    "title": "Wunde versorgen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "10 Dekubitus/Wunde (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 08:00 Uhr",
+    "zyklus_info": {
+      "raw": "1x tgl. 08:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [
+        "08:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 256,
+    "title": "Dekubitus..",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "10 Dekubitus/Wunde (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": "Wunde versorgen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 257,
+    "title": "Wund-/Verbandkontrolle durchführen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "10 Dekubitus/Wunde (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 08:00/16:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 08:00/16:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "08:00",
+        "16:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 258,
+    "title": "Wunde..",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "10 Dekubitus/Wunde (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": "Wund-/Verbandkontrolle durchführen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 259,
+    "title": "Dekubitus..",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "10 Dekubitus/Wunde (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": "Wund-/Verbandkontrolle durchführen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 303,
+    "title": "04 Ausscheidung (PMD)",
+    "status": "Aktiv",
+    "row_type": "paket",
+    "indent_level": 2,
+    "package": "04 Ausscheidung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 304,
+    "title": "Kontinenzprofil: abhängig kompensierte Inkontinenz",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "04 Ausscheidung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 305,
+    "title": "Obstipation [1a]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "04 Ausscheidung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 306,
+    "title": "Stuhlkontrolle: fehlt [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "04 Ausscheidung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 307,
+    "title": "Stuhlausscheidg: keine Fähigkeit [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "04 Ausscheidung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 308,
+    "title": "Urinausscheidung: keine Fähigkeit [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "04 Ausscheidung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 309,
+    "title": "Urinkontrolle fehlt [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "04 Ausscheidung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 310,
+    "title": "Urinableitung [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "04 Ausscheidung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 311,
+    "title": "Dranghafte/gesteigerte Ausscheidung [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "04 Ausscheidung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 312,
+    "title": "Hautfeuchte: oft feucht [2]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "04 Ausscheidung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 313,
+    "title": "Ausfuhrmenge messen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "04 Ausscheidung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 05:00/12:00/19:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 05:00/12:00/19:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "05:00",
+        "12:00",
+        "19:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 314,
+    "title": "Darmgeräusche überwachen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "04 Ausscheidung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 08:00/16:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 08:00/16:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "08:00",
+        "16:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 315,
+    "title": "Ausscheidung überwachen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "04 Ausscheidung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 08:00/16:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 08:00/16:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "08:00",
+        "16:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 316,
+    "title": "Urinbeutel leeren/wechseln",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "04 Ausscheidung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 06:00/14:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 06:00/14:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "06:00",
+        "14:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 317,
+    "title": "Inkontinenzmaterial wechseln",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "04 Ausscheidung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "alle 3 Stunden",
+    "zyklus_info": {
+      "raw": "alle 3 Stunden",
+      "kind": "stundenintervall",
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": 3,
+      "notes": "alle 3 Stunden"
+    }
+  },
+  {
+    "row_index": 318,
+    "title": "Bettschüssel reichen/entfernen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "04 Ausscheidung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "4x pro Tag vor den Mahlzeiten",
+    "zyklus_info": {
+      "raw": "4x pro Tag vor den Mahlzeiten",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 4,
+      "times": [],
+      "interval_hours": null,
+      "notes": "4x pro Tag vor den Mahlzeiten"
+    }
+  },
+  {
+    "row_index": 319,
+    "title": "Blasenkatheterpflege durchführen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "04 Ausscheidung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "2x pro Tag 08:00/20:00 Uhr",
+    "zyklus_info": {
+      "raw": "2x pro Tag 08:00/20:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 2,
+      "times": [
+        "08:00",
+        "20:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 334,
+    "title": "07 Schlaf (PMD)",
+    "status": "Aktiv",
+    "row_type": "paket",
+    "indent_level": 2,
+    "package": "07 Schlaf (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 335,
+    "title": "Schlaf-Wach-Rhythmus: verändert [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "07 Schlaf (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 336,
+    "title": "Ein-/ Durchschlafen: beeinträchtigt [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "07 Schlaf (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 337,
+    "title": "Schlaf-Wach-Rhythmus überwachen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "07 Schlaf (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "2x pro Tag 08:00/20:00 Uhr",
+    "zyklus_info": {
+      "raw": "2x pro Tag 08:00/20:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 2,
+      "times": [
+        "08:00",
+        "20:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 357,
+    "title": "Geräte und Hilfsmittel",
+    "status": "Aktiv",
+    "row_type": "paket",
+    "indent_level": 2,
+    "package": "Geräte und Hilfsmittel",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 358,
+    "title": "Gerät/System nachbereiten",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Geräte und Hilfsmittel",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 10:00 Uhr",
+    "zyklus_info": {
+      "raw": "1x tgl. 10:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [
+        "10:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 359,
+    "title": "Dekubitusprophylaxe Matratze",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "Geräte und Hilfsmittel",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Gerät/System nachbereiten",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 360,
+    "title": "Gerät/System überprüfen/warten",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Geräte und Hilfsmittel",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 08:00/16:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 08:00/16:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "08:00",
+        "16:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 361,
+    "title": "Dekubitusprophylaxe Matratze",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "Geräte und Hilfsmittel",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Gerät/System überprüfen/warten",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 362,
+    "title": "Gerät/System vorbereiten",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Geräte und Hilfsmittel",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 08:00 Uhr",
+    "zyklus_info": {
+      "raw": "1x tgl. 08:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [
+        "08:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 363,
+    "title": "Dekubitusprophylaxe Matratze",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "Geräte und Hilfsmittel",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": "Gerät/System vorbereiten",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 364,
+    "title": "Spezialbett vor-/nachbereiten",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "Geräte und Hilfsmittel",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 08:00/16:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 08:00/16:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "08:00",
+        "16:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 365,
+    "title": "PPR 2.0 Zusatzdaten",
+    "status": "Aktiv",
+    "row_type": "paket",
+    "indent_level": 2,
+    "package": "PPR 2.0 Zusatzdaten",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 366,
+    "title": "starkes Schwitzen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "PPR 2.0 Zusatzdaten",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 367,
+    "title": "Große Wunde",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "PPR 2.0 Zusatzdaten",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 368,
+    "title": "Tiefe Wunde",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "PPR 2.0 Zusatzdaten",
+    "package_is_pmd": false,
+    "entry_origin": "manuell",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 387,
+    "title": "02 Körperpflege (PMD)",
+    "status": "Aktiv",
+    "row_type": "paket",
+    "indent_level": 2,
+    "package": "02 Körperpflege (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 388,
+    "title": "An-/Auskleiden OK: keine Fähigkeit [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "02 Körperpflege (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 389,
+    "title": "An-/Auskleiden UK: keine Fähigkeit [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "02 Körperpflege (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 390,
+    "title": "Mundstatus: leicht verändert [2]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "02 Körperpflege (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 391,
+    "title": "Körperpflege UK: keine Fähigkeit [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "02 Körperpflege (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 392,
+    "title": "Körperpflege OK: stark beeinträchtigt [2]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "02 Körperpflege (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 393,
+    "title": "Teilkörper an-/auskleiden",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "02 Körperpflege (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 19:00 Uhr",
+    "zyklus_info": {
+      "raw": "1x tgl. 19:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [
+        "19:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 394,
+    "title": "Zahnprothese/-spange reinigen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "02 Körperpflege (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "2x pro Tag 08:00/20:00 Uhr",
+    "zyklus_info": {
+      "raw": "2x pro Tag 08:00/20:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 2,
+      "times": [
+        "08:00",
+        "20:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 395,
+    "title": "Teilkörperwäsche durchführen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "02 Körperpflege (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 19:00 Uhr",
+    "zyklus_info": {
+      "raw": "1x tgl. 19:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [
+        "19:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 396,
+    "title": "Ganzkörperwäsche durchführen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "02 Körperpflege (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "1x tgl. 08:00 Uhr",
+    "zyklus_info": {
+      "raw": "1x tgl. 08:00 Uhr",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 1,
+      "times": [
+        "08:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 397,
+    "title": "Motor Relearning Programm",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "02 Körperpflege (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": "Ganzkörperwäsche durchführen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 415,
+    "title": "03 Ernährung (PMD)",
+    "status": "Aktiv",
+    "row_type": "paket",
+    "indent_level": 2,
+    "package": "03 Ernährung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 416,
+    "title": "Essen: gering beeinträchtigt [3]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "03 Ernährung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 417,
+    "title": "Nahrungsmenge (oral): bis 50% TB [2]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "03 Ernährung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 418,
+    "title": "Nahrungsmenge (ges.): 25 - 50% TB [2]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "03 Ernährung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 419,
+    "title": "Energie-/Nährstoffbedarf: erhöht [2]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "03 Ernährung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 420,
+    "title": "Trinken: gering beeinträchtigt [3]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "03 Ernährung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 421,
+    "title": "Trinkmenge 1001 - 1500 ml [3]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "03 Ernährung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 422,
+    "title": "Flüssigkeitsergänzung 501 - 1000 ml [2]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "03 Ernährung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 423,
+    "title": "Flüssigkeitsbedarf erhöht",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "03 Ernährung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 424,
+    "title": "Risiko Mangelernährung: erhöht [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "03 Ernährung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 425,
+    "title": "Zahnprothese [1a]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "03 Ernährung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 426,
+    "title": "Flüssigkeits-/Nahrungsaufnahme überwachen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "03 Ernährung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "4x pro Tag zur Essenszeit",
+    "zyklus_info": {
+      "raw": "4x pro Tag zur Essenszeit",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 4,
+      "times": [],
+      "interval_hours": null,
+      "notes": "4x pro Tag zur Essenszeit"
+    }
+  },
+  {
+    "row_index": 427,
+    "title": "Lagerung zur Nahrungsaufnahme durchführen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "03 Ernährung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "4x pro Tag vor den Mahlzeiten",
+    "zyklus_info": {
+      "raw": "4x pro Tag vor den Mahlzeiten",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 4,
+      "times": [],
+      "interval_hours": null,
+      "notes": "4x pro Tag vor den Mahlzeiten"
+    }
+  },
+  {
+    "row_index": 450,
+    "title": "11 Regulation von Körperfunktionen (PMD)",
+    "status": "Aktiv",
+    "row_type": "paket",
+    "indent_level": 2,
+    "package": "11 Regulation von Körperfunktionen (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 451,
+    "title": "Pneumonierisiko: erhöht [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "11 Regulation von Körperfunktionen (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 452,
+    "title": "chronische Erkrankung des Atmungssystems [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "11 Regulation von Körperfunktionen (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 453,
+    "title": "Atmung: beeinträchtigt (aktuell) [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "11 Regulation von Körperfunktionen (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 454,
+    "title": "Atemstimulierende Einreibung durchführen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "11 Regulation von Körperfunktionen (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 08:00/16:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 08:00/16:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "08:00",
+        "16:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 455,
+    "title": "Atmung überwachen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "11 Regulation von Körperfunktionen (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 08:00/16:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 08:00/16:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "08:00",
+        "16:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 456,
+    "title": "Atemfrequenz",
+    "status": "Aktiv",
+    "row_type": "detail",
+    "indent_level": 6,
+    "package": "11 Regulation von Körperfunktionen (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": "Atmung überwachen",
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 457,
+    "title": "Sauerstoff verabreichen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "11 Regulation von Körperfunktionen (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "Bei Bedarf",
+    "zyklus_info": {
+      "raw": "Bei Bedarf",
+      "kind": "bei_bedarf",
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 458,
+    "title": "Inhalation unterstützen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "11 Regulation von Körperfunktionen (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 08:00/16:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 08:00/16:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "08:00",
+        "16:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 459,
+    "title": "Atemtraining durchführen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "11 Regulation von Körperfunktionen (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 08:00/16:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 08:00/16:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "08:00",
+        "16:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 460,
+    "title": "Abhusten unterstützen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "11 Regulation von Körperfunktionen (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "Bei Bedarf",
+    "zyklus_info": {
+      "raw": "Bei Bedarf",
+      "kind": "bei_bedarf",
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 461,
+    "title": "Oberkörperhochlagerung durchführen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "11 Regulation von Körperfunktionen (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 08:00/16:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 08:00/16:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "08:00",
+        "16:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 477,
+    "title": "05 Kognition / Bewusstsein (PMD)",
+    "status": "Aktiv",
+    "row_type": "paket",
+    "indent_level": 2,
+    "package": "05 Kognition / Bewusstsein (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 478,
+    "title": "Orientierung: zu drei Qualitäten orientiert [3]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "05 Kognition / Bewusstsein (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 479,
+    "title": "Informat. verarbeit.: gering beeinträchtigt [3]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "05 Kognition / Bewusstsein (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 480,
+    "title": "Alltagskompetenz: stark beeinträchtigt [2]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "05 Kognition / Bewusstsein (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 481,
+    "title": "Einnahme Sturz- und/ oder Delir-Risiko erhöhender Medikamente [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "05 Kognition / Bewusstsein (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 482,
+    "title": "Aufmerksamkeit: kontinuierlich beeinträchtigt [1].",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "05 Kognition / Bewusstsein (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 483,
+    "title": "Verhalten beobachten",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "05 Kognition / Bewusstsein (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 08:00/16:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 08:00/16:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "08:00",
+        "16:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 484,
+    "title": "06 Kommunikation und Interaktion (PMD)",
+    "status": "Aktiv",
+    "row_type": "paket",
+    "indent_level": 2,
+    "package": "06 Kommunikation und Interaktion (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 485,
+    "title": "selbst initiierte Aktivitäten: keine Aktivitäten erkennbar [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "06 Kommunikation und Interaktion (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 486,
+    "title": "Hörgerät [1a]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "06 Kommunikation und Interaktion (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 487,
+    "title": "Abklärungserfordernis neurokognitive Störung [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "06 Kommunikation und Interaktion (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 488,
+    "title": "Hören: Schwerhörigkeit [2]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "06 Kommunikation und Interaktion (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 489,
+    "title": "Sehen: beeinträchtigt [2]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "06 Kommunikation und Interaktion (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 509,
+    "title": "01 Bewegung (PMD)",
+    "status": "Aktiv",
+    "row_type": "paket",
+    "indent_level": 2,
+    "package": "01 Bewegung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 510,
+    "title": "Prothese/ Orthese [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "01 Bewegung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 511,
+    "title": "Dekubitusrisiko (Braden): hoch [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "01 Bewegung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 512,
+    "title": "Dekubitusrisiko: Experteneinschätz = Ja",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "01 Bewegung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 513,
+    "title": "Posit.wechsel im Liegen: keine Fähigkeit [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "01 Bewegung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 514,
+    "title": "Sitzposit. halten: keine Fähigkeit [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "01 Bewegung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 515,
+    "title": "Transfer: keine Fähigkeit [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "01 Bewegung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 516,
+    "title": "Fortbew.: keine Fähigkeit/ Bettruhe [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "01 Bewegung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 517,
+    "title": "Reibung/ Scherkräfte: ausgeprägt [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "01 Bewegung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 518,
+    "title": "Erschöpfung / Fatigue: fehlende Körperkraft/ Energie [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "01 Bewegung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 519,
+    "title": "Sturzrisiko: erhöht [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "01 Bewegung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 520,
+    "title": "Seitenlagerung durchführen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "01 Bewegung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "alle 2 Stunden (ungerade Uhrzeit)",
+    "zyklus_info": {
+      "raw": "alle 2 Stunden (ungerade Uhrzeit)",
+      "kind": "stundenintervall",
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": 2,
+      "notes": "alle 2 Stunden (ungerade Uhrzeit)"
+    }
+  },
+  {
+    "row_index": 521,
+    "title": "Mikrolagerung durchführen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "01 Bewegung (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "4x pro Tag 08:00/14:00/22:00/02:00",
+    "zyklus_info": {
+      "raw": "4x pro Tag 08:00/14:00/22:00/02:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 4,
+      "times": [
+        "08:00",
+        "14:00",
+        "22:00",
+        "02:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 530,
+    "title": "09 Schmerz und emotionales Empfinden (PMD)",
+    "status": "Aktiv",
+    "row_type": "paket",
+    "indent_level": 2,
+    "package": "09 Schmerz und emotionales Empfinden (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 531,
+    "title": "Chronische Schmerzen [1]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "09 Schmerz und emotionales Empfinden (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 532,
+    "title": "Traurigkeit: mittel (S) [S2]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "09 Schmerz und emotionales Empfinden (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 533,
+    "title": "Angst: gering (S) [S3]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "09 Schmerz und emotionales Empfinden (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 534,
+    "title": "sensor. Wahrnehmung: eingeschränkt [2]",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "09 Schmerz und emotionales Empfinden (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "",
+    "zyklus_info": {
+      "raw": "",
+      "kind": null,
+      "frequency_per_day": null,
+      "times": [],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 535,
+    "title": "Sensorik/Motorik/Durchblutung überwachen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "09 Schmerz und emotionales Empfinden (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 07:00/15:00/21:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 07:00/15:00/21:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "07:00",
+        "15:00",
+        "21:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  },
+  {
+    "row_index": 536,
+    "title": "Schmerz überwachen",
+    "status": "Aktiv",
+    "row_type": "leistung",
+    "indent_level": 4,
+    "package": "09 Schmerz und emotionales Empfinden (PMD)",
+    "package_is_pmd": true,
+    "entry_origin": "PMD",
+    "parent_leistung": null,
+    "zyklentext": "3x pro Tag 08:00/16:00/22:00",
+    "zyklus_info": {
+      "raw": "3x pro Tag 08:00/16:00/22:00",
+      "kind": "mehrfach_pro_tag",
+      "frequency_per_day": 3,
+      "times": [
+        "08:00",
+        "16:00",
+        "22:00"
+      ],
+      "interval_hours": null,
+      "notes": null
+    }
+  }
+]
