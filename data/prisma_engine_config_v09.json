@@ -1,0 +1,11 @@
+{
+  "version": "v09",
+  "engine": {
+    "show_unmatched_services": true,
+    "minimum_confidence_to_display": 0.0
+  },
+  "ui": {
+    "default_show_details": true,
+    "default_show_findings_only": false
+  }
+}
