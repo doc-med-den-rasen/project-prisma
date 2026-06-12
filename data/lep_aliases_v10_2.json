@@ -1,0 +1,875 @@
+{
+  "version": "v09.2",
+  "aliases": [
+    {
+      "prisma_title": "An Bettrand mobilisieren",
+      "lep_title": "An Bettrand mobilisieren",
+      "lep_id": "I_22440",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Beim Gehen begleiten",
+      "lep_title": "Beim Gehen begleiten",
+      "lep_id": "I_22810",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "In das Bett mobilisieren",
+      "lep_title": "In das Bett mobilisieren",
+      "lep_id": "I_23575",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "In das Stehbrett mobilisieren",
+      "lep_title": "In das Stehbrett mobilisieren",
+      "lep_id": "I_22737",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "In Rollstuhl mobilisieren",
+      "lep_title": "In Rollstuhl mobilisieren",
+      "lep_id": "I_22734",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "In Stuhl/Lehnstuhl mobilisieren",
+      "lep_title": "In Stuhl/Lehnstuhl mobilisieren",
+      "lep_id": "I_22733",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Stehtraining durchführen",
+      "lep_title": "Stehtraining durchführen",
+      "lep_id": "I_23366",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Transfer durchführen",
+      "lep_title": "Transfer durchführen",
+      "lep_id": "I_23100",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Transfertraining durchführen",
+      "lep_title": "Transfertraining durchführen",
+      "lep_id": "I_30786",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Zum Stehen mobilisieren",
+      "lep_title": "Zum Stehen mobilisieren",
+      "lep_id": "I_23202",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Auf neuen Liegeplatz umbetten",
+      "lep_title": "Auf neuen Liegeplatz umbetten",
+      "lep_id": "I_22460",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Vitalzeichen messen",
+      "lep_title": "Vitalzeichen messen",
+      "lep_id": "LOCAL_V09_2_001",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Atmung überwachen",
+      "lep_title": "Atmung überwachen",
+      "lep_id": "LOCAL_V09_2_002",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Infusion mit Zusatz verabreichen",
+      "lep_title": "Infusion mit Zusatz verabreichen",
+      "lep_id": "LOCAL_V09_2_003",
+      "match_type": "exact",
+      "synonyms": [
+        "Infusion mit Zusatz verabreichen [1/3]",
+        "Infusion mit Zusatz verabreichen [2/3]",
+        "Infusion mit Zusatz verabreichen [3/3]"
+      ],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Sekret-/Drainagebehälter leeren/wechseln",
+      "lep_title": "Sekret-/Drainagebehälter leeren/wechseln",
+      "lep_id": "LOCAL_V09_2_004",
+      "match_type": "exact",
+      "synonyms": [
+        "Sekret-/Drainagebehälter leeren/wechseln [1/2]",
+        "Sekret-/Drainagebehälter leeren/wechseln [2/2]"
+      ],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Drainage überwachen",
+      "lep_title": "Drainage überwachen",
+      "lep_id": "LOCAL_V09_2_005",
+      "match_type": "exact",
+      "synonyms": [
+        "Drainage überwachen [1/2]",
+        "Drainage überwachen [2/2]"
+      ],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Sauerstoffsättigung überwachen",
+      "lep_title": "Sauerstoffsättigung überwachen",
+      "lep_id": "LOCAL_V09_2_006",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Material für Arztverrichtung vor-/nachbereiten",
+      "lep_title": "Material für Arztverrichtung vor-/nachbereiten",
+      "lep_id": "LOCAL_V09_2_007",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Verband Katheter/Kanüle wechseln",
+      "lep_title": "Verband Katheter/Kanüle wechseln",
+      "lep_id": "LOCAL_V09_2_008",
+      "match_type": "exact",
+      "synonyms": [
+        "Verband Katheter/Kanüle wechseln [1/2]",
+        "Verband Katheter/Kanüle wechseln [2/2]"
+      ],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Gerät/System nachbereiten",
+      "lep_title": "Gerät/System nachbereiten",
+      "lep_id": "LOCAL_V09_2_009",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Wunde versorgen",
+      "lep_title": "Wunde versorgen",
+      "lep_id": "LOCAL_V09_2_010",
+      "match_type": "exact",
+      "synonyms": [
+        "Wunde versorgen [1/2]",
+        "Wunde versorgen [2/2]"
+      ],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Gerät/System vorbereiten",
+      "lep_title": "Gerät/System vorbereiten",
+      "lep_id": "LOCAL_V09_2_011",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Gerät/System überprüfen/warten",
+      "lep_title": "Gerät/System überprüfen/warten",
+      "lep_id": "LOCAL_V09_2_012",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Medikament peroral verabreichen",
+      "lep_title": "Medikament peroral verabreichen",
+      "lep_id": "LOCAL_V09_2_013",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Puls messen",
+      "lep_title": "Puls messen",
+      "lep_id": "LOCAL_V09_2_014",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Blutdruck messen",
+      "lep_title": "Blutdruck messen",
+      "lep_id": "LOCAL_V09_2_015",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Körpertemperatur messen",
+      "lep_title": "Körpertemperatur messen",
+      "lep_id": "LOCAL_V09_2_016",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Bett zurechtmachen",
+      "lep_title": "Bett zurechtmachen",
+      "lep_id": "LOCAL_V09_2_017",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Bettwäsche wechseln",
+      "lep_title": "Bettwäsche wechseln",
+      "lep_id": "LOCAL_V09_2_018",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Inhalation unterstützen",
+      "lep_title": "Inhalation unterstützen",
+      "lep_id": "LOCAL_V09_2_019",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Verhalten beobachten",
+      "lep_title": "Verhalten beobachten",
+      "lep_id": "LOCAL_V09_2_020",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Atemtraining durchführen",
+      "lep_title": "Atemtraining durchführen",
+      "lep_id": "LOCAL_V09_2_021",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Patientendokumentation führen",
+      "lep_title": "Patientendokumentation führen",
+      "lep_id": "LOCAL_V09_2_022",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Mahlzeit bereitstellen/abräumen",
+      "lep_title": "Mahlzeit bereitstellen/abräumen",
+      "lep_id": "LOCAL_V09_2_023",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Getränk bereitstellen/abräumen",
+      "lep_title": "Getränk bereitstellen/abräumen",
+      "lep_id": "LOCAL_V09_2_024",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Venöse Blutentnahme durchführen",
+      "lep_title": "Venöse Blutentnahme durchführen",
+      "lep_id": "LOCAL_V09_2_025",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "nächtlicher Rundgang",
+      "lep_title": "nächtlicher Rundgang",
+      "lep_id": "LOCAL_V09_2_026",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Gewicht messen",
+      "lep_title": "Gewicht messen",
+      "lep_id": "LOCAL_V09_2_027",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Visite mit Ärztin/Behandlungsteam durchführen",
+      "lep_title": "Visite mit Ärztin/Behandlungsteam durchführen",
+      "lep_id": "LOCAL_V09_2_028",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Sauerstoff verabreichen",
+      "lep_title": "Sauerstoff verabreichen",
+      "lep_id": "LOCAL_V09_2_029",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Schmerz überwachen",
+      "lep_title": "Schmerz überwachen",
+      "lep_id": "LOCAL_V09_2_030",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Ausscheidung überwachen",
+      "lep_title": "Ausscheidung überwachen",
+      "lep_id": "LOCAL_V09_2_031",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Mikrolagerung durchführen",
+      "lep_title": "Mikrolagerung durchführen",
+      "lep_id": "LOCAL_V09_2_032",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Schlaf-Wach-Rhythmus überwachen",
+      "lep_title": "Schlaf-Wach-Rhythmus überwachen",
+      "lep_id": "LOCAL_V09_2_033",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Blutentnahme assistieren",
+      "lep_title": "Blutentnahme assistieren",
+      "lep_id": "LOCAL_V09_2_034",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Verband Drain wechseln",
+      "lep_title": "Verband Drain wechseln",
+      "lep_id": "LOCAL_V09_2_035",
+      "match_type": "exact",
+      "synonyms": [
+        "Verband Drain wechseln [1/2]",
+        "Verband Drain wechseln [2/2]"
+      ],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Injektion s.c. verabreichen",
+      "lep_title": "Injektion s.c. verabreichen",
+      "lep_id": "LOCAL_V09_2_036",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Patienteneigentum ein-/auspacken",
+      "lep_title": "Patienteneigentum ein-/auspacken",
+      "lep_id": "LOCAL_V09_2_037",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Abhusten unterstützen",
+      "lep_title": "Abhusten unterstützen",
+      "lep_id": "LOCAL_V09_2_038",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Wund-/Verbandkontrolle durchführen",
+      "lep_title": "Wund-/Verbandkontrolle durchführen",
+      "lep_id": "LOCAL_V09_2_039",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Ausfuhrmenge messen",
+      "lep_title": "Ausfuhrmenge messen",
+      "lep_id": "LOCAL_V09_2_040",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Seitenlagerung durchführen",
+      "lep_title": "Seitenlagerung durchführen",
+      "lep_id": "LOCAL_V09_2_041",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Lagerung zur Nahrungsaufnahme durchführen",
+      "lep_title": "Lagerung zur Nahrungsaufnahme durchführen",
+      "lep_id": "LOCAL_V09_2_042",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Teilkörper an-/auskleiden",
+      "lep_title": "Teilkörper an-/auskleiden",
+      "lep_id": "LOCAL_V09_2_043",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Teilkörperwäsche durchführen",
+      "lep_title": "Teilkörperwäsche durchführen",
+      "lep_id": "LOCAL_V09_2_044",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Ganzkörperwäsche durchführen",
+      "lep_title": "Ganzkörperwäsche durchführen",
+      "lep_id": "LOCAL_V09_2_045",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Flüssigkeits-/Nahrungsaufnahme überwachen",
+      "lep_title": "Flüssigkeits-/Nahrungsaufnahme überwachen",
+      "lep_id": "LOCAL_V09_2_046",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Bettschüssel reichen/entfernen",
+      "lep_title": "Bettschüssel reichen/entfernen",
+      "lep_id": "LOCAL_V09_2_047",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Urinbeutel leeren/wechseln",
+      "lep_title": "Urinbeutel leeren/wechseln",
+      "lep_id": "LOCAL_V09_2_048",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Atemstimulierende Einreibung durchführen",
+      "lep_title": "Atemstimulierende Einreibung durchführen",
+      "lep_id": "LOCAL_V09_2_049",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Inkontinenzmaterial wechseln",
+      "lep_title": "Inkontinenzmaterial wechseln",
+      "lep_id": "LOCAL_V09_2_050",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Sekret/Spüllösung messen",
+      "lep_title": "Sekret/Spüllösung messen",
+      "lep_id": "LOCAL_V09_2_051",
+      "match_type": "exact",
+      "synonyms": [
+        "Sekret/Spüllösung messen [1/2]",
+        "Sekret/Spüllösung messen [2/2]"
+      ],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Blutentnahme aus Kanüle/Katheter durchführen",
+      "lep_title": "Blutentnahme aus Kanüle/Katheter durchführen",
+      "lep_id": "LOCAL_V09_2_052",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Oberkörperhochlagerung durchführen",
+      "lep_title": "Oberkörperhochlagerung durchführen",
+      "lep_id": "LOCAL_V09_2_053",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Darmgeräusche überwachen",
+      "lep_title": "Darmgeräusche überwachen",
+      "lep_id": "LOCAL_V09_2_054",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Blasenkatheterpflege durchführen",
+      "lep_title": "Blasenkatheterpflege durchführen",
+      "lep_id": "LOCAL_V09_2_055",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Sensorik/Motorik/Durchblutung überwachen",
+      "lep_title": "Sensorik/Motorik/Durchblutung überwachen",
+      "lep_id": "LOCAL_V09_2_056",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Zahnprothese/-spange reinigen",
+      "lep_title": "Zahnprothese/-spange reinigen",
+      "lep_id": "LOCAL_V09_2_057",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Spezialbett vor-/nachbereiten",
+      "lep_title": "Spezialbett vor-/nachbereiten",
+      "lep_id": "LOCAL_V09_2_058",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Bewusstseinslage überwachen",
+      "lep_title": "Bewusstseinslage überwachen",
+      "lep_id": "LOCAL_V09_2_059",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Blutung überwachen",
+      "lep_title": "Blutung überwachen",
+      "lep_id": "LOCAL_V09_2_060",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Bettplatzwechsel durchführen",
+      "lep_title": "Bettplatzwechsel durchführen",
+      "lep_id": "LOCAL_V09_2_061",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Raumpflege organisieren",
+      "lep_title": "Raumpflege organisieren",
+      "lep_id": "LOCAL_V09_2_062",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Verlegungsgespräch durchführen",
+      "lep_title": "Verlegungsgespräch durchführen",
+      "lep_id": "LOCAL_V09_2_063",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Verlegung organisieren",
+      "lep_title": "Verlegung organisieren",
+      "lep_id": "LOCAL_V09_2_064",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Zimmerwechsel durchführen",
+      "lep_title": "Zimmerwechsel durchführen",
+      "lep_id": "LOCAL_V09_2_065",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Hautverhältnisse überwachen",
+      "lep_title": "Hautverhältnisse überwachen",
+      "lep_id": "LOCAL_V09_2_066",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Eintrittsgespräch durchführen",
+      "lep_title": "Eintrittsgespräch durchführen",
+      "lep_id": "LOCAL_V09_2_067",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Eintritt organisieren",
+      "lep_title": "Eintritt organisieren",
+      "lep_id": "LOCAL_V09_2_068",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Bettplatz vor-/nachbereiten",
+      "lep_title": "Bettplatz vor-/nachbereiten",
+      "lep_id": "LOCAL_V09_2_069",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Assessment-/Anamnese erheben",
+      "lep_title": "Assessment-/Anamnese erheben",
+      "lep_id": "LOCAL_V09_2_070",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Motivationsgespräch durchführen",
+      "lep_title": "Motivationsgespräch durchführen",
+      "lep_id": "LOCAL_V09_2_071",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "MHH_Patientenidentifikationsarmband anlegen",
+      "lep_title": "MHH_Patientenidentifikationsarmband anlegen",
+      "lep_id": "LOCAL_V09_2_072",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Abstrich abnehmen",
+      "lep_title": "Abstrich abnehmen",
+      "lep_id": "LOCAL_V09_2_073",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Hautschutz anbringen",
+      "lep_title": "Hautschutz anbringen",
+      "lep_id": "LOCAL_V09_2_074",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Ganzkörper an-/auskleiden",
+      "lep_title": "Ganzkörper an-/auskleiden",
+      "lep_id": "LOCAL_V09_2_075",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Urinflasche reichen/entfernen",
+      "lep_title": "Urinflasche reichen/entfernen",
+      "lep_id": "LOCAL_V09_2_076",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Körperhaare entfernen",
+      "lep_title": "Körperhaare entfernen",
+      "lep_id": "LOCAL_V09_2_077",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Infusion verabreichen",
+      "lep_title": "Infusion verabreichen",
+      "lep_id": "LOCAL_V09_2_078",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Kompressionsstrümpfe anziehen",
+      "lep_title": "Kompressionsstrümpfe anziehen",
+      "lep_id": "LOCAL_V09_2_079",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Patientenhemd an-/auskleiden",
+      "lep_title": "Patientenhemd an-/auskleiden",
+      "lep_id": "LOCAL_V09_2_080",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Übelkeit/Erbrechen überwachen",
+      "lep_title": "Übelkeit/Erbrechen überwachen",
+      "lep_id": "LOCAL_V09_2_081",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Ausscheidung mit Toilettenstuhl unterstützen",
+      "lep_title": "Ausscheidung mit Toilettenstuhl unterstützen",
+      "lep_id": "LOCAL_V09_2_082",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Wundnaht versorgen",
+      "lep_title": "Wundnaht versorgen",
+      "lep_id": "LOCAL_V09_2_083",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Hilfsmittel nachbereiten",
+      "lep_title": "Hilfsmittel nachbereiten",
+      "lep_id": "LOCAL_V09_2_084",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Hilfsmittel herstellen/anlegen",
+      "lep_title": "Hilfsmittel herstellen/anlegen",
+      "lep_id": "LOCAL_V09_2_085",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Hilfsmittel vorbereiten/anpassen",
+      "lep_title": "Hilfsmittel vorbereiten/anpassen",
+      "lep_id": "LOCAL_V09_2_086",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Hilfsmittel überprüfen/warten",
+      "lep_title": "Hilfsmittel überprüfen/warten",
+      "lep_id": "LOCAL_V09_2_087",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Sturzberatung durchführen",
+      "lep_title": "Sturzberatung durchführen",
+      "lep_id": "LOCAL_V09_2_088",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Essen/Trinken begleiten",
+      "lep_title": "Essen/Trinken begleiten",
+      "lep_id": "LOCAL_V09_2_089",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Katheter/Kanüle entfernen",
+      "lep_title": "Katheter/Kanüle entfernen",
+      "lep_id": "LOCAL_V09_2_090",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Blutzuckerwert messen",
+      "lep_title": "Blutzuckerwert messen",
+      "lep_id": "LOCAL_BZ_MESSEN",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": [
+        "03 Ernährung"
+      ]
+    },
+    {
+      "prisma_title": "Toilettenbenutzung unterstützen",
+      "lep_title": "Toilettenbenutzung unterstützen",
+      "lep_id": "LOCAL_TOILETTENBENUTZUNG_UNTERSTUETZEN",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": [
+        "04 Ausscheidung"
+      ]
+    },
+    {
+      "prisma_title": "Externen Schrittmacher überwachen",
+      "lep_title": "Externen Schrittmacher überwachen",
+      "lep_id": "LOCAL_EXTERNEN_SCHRITTMACHER_UEBERWACHEN",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": [
+        "11 Regulation von Körperfunktionen"
+      ]
+    },
+    {
+      "prisma_title": "Medikamenteneinnahme überwachen",
+      "lep_title": "Medikamenteneinnahme überwachen",
+      "lep_id": "LOCAL_MEDIKAMENTENEINNAHME_UEBERWACHEN",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": [
+        "11 Regulation von Körperfunktionen"
+      ]
+    }
+  ]
+}

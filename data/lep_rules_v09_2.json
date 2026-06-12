@@ -1,0 +1,1531 @@
+{
+  "version": "v09.2",
+  "source": "LEP Nursing 3.4.1",
+  "entries": [
+    {
+      "lep_id": "I_22440",
+      "structure_id": "1.3.1.1",
+      "title": "An Bettrand mobilisieren",
+      "default_time": 5,
+      "included": [],
+      "excluded": [],
+      "notes": [],
+      "active": true
+    },
+    {
+      "lep_id": "I_22810",
+      "structure_id": "1.3.1.2",
+      "title": "Beim Gehen begleiten",
+      "default_time": 7,
+      "included": [],
+      "excluded": [
+        {
+          "lep_id": "I_22489",
+          "title": "Begleiten extern"
+        },
+        {
+          "lep_id": "I_22490",
+          "title": "Begleiten intern"
+        },
+        {
+          "lep_id": "I_22667",
+          "title": "Gehtraining durchführen"
+        },
+        {
+          "lep_id": "I_23575",
+          "title": "In das Bett mobilisieren"
+        },
+        {
+          "lep_id": "I_22737",
+          "title": "In das Stehbrett mobilisieren"
+        },
+        {
+          "lep_id": "I_22734",
+          "title": "In Rollstuhl mobilisieren"
+        },
+        {
+          "lep_id": "I_22736",
+          "title": "In Spezialstuhl mobilisieren"
+        },
+        {
+          "lep_id": "I_22733",
+          "title": "In Stuhl/Lehnstuhl mobilisieren"
+        }
+      ],
+      "notes": [],
+      "active": true
+    },
+    {
+      "lep_id": "I_23575",
+      "structure_id": "1.3.1.7",
+      "title": "In das Bett mobilisieren",
+      "default_time": 8,
+      "included": [
+        {
+          "lep_id": "I_22440",
+          "title": "An Bettrand mobilisieren"
+        },
+        {
+          "lep_id": "I_23202",
+          "title": "Zum Stehen mobilisieren"
+        }
+      ],
+      "excluded": [
+        {
+          "lep_id": "I_22810",
+          "title": "Beim Gehen begleiten"
+        }
+      ],
+      "notes": [],
+      "active": true
+    },
+    {
+      "lep_id": "I_22737",
+      "structure_id": "1.3.1.8",
+      "title": "In das Stehbrett mobilisieren",
+      "default_time": null,
+      "included": [
+        {
+          "lep_id": "I_22440",
+          "title": "An Bettrand mobilisieren"
+        },
+        {
+          "lep_id": "I_23202",
+          "title": "Zum Stehen mobilisieren"
+        }
+      ],
+      "excluded": [
+        {
+          "lep_id": "I_22810",
+          "title": "Beim Gehen begleiten"
+        },
+        {
+          "lep_id": "I_22736",
+          "title": "In Spezialstuhl mobilisieren"
+        }
+      ],
+      "notes": [],
+      "active": true
+    },
+    {
+      "lep_id": "I_22734",
+      "structure_id": "1.3.1.9",
+      "title": "In Rollstuhl mobilisieren",
+      "default_time": 6,
+      "included": [
+        {
+          "lep_id": "I_22440",
+          "title": "An Bettrand mobilisieren"
+        },
+        {
+          "lep_id": "I_23202",
+          "title": "Zum Stehen mobilisieren"
+        }
+      ],
+      "excluded": [
+        {
+          "lep_id": "I_22810",
+          "title": "Beim Gehen begleiten"
+        }
+      ],
+      "notes": [],
+      "active": true
+    },
+    {
+      "lep_id": "I_22733",
+      "structure_id": "1.3.1.11",
+      "title": "In Stuhl/Lehnstuhl mobilisieren",
+      "default_time": 8,
+      "included": [
+        {
+          "lep_id": "I_22440",
+          "title": "An Bettrand mobilisieren"
+        },
+        {
+          "lep_id": "I_23202",
+          "title": "Zum Stehen mobilisieren"
+        }
+      ],
+      "excluded": [
+        {
+          "lep_id": "I_22810",
+          "title": "Beim Gehen begleiten"
+        }
+      ],
+      "notes": [],
+      "active": true
+    },
+    {
+      "lep_id": "I_23366",
+      "structure_id": "1.3.1.18",
+      "title": "Stehtraining durchführen",
+      "default_time": 5,
+      "included": [
+        {
+          "lep_id": "I_22737",
+          "title": "In das Stehbrett mobilisieren"
+        },
+        {
+          "lep_id": "I_23202",
+          "title": "Zum Stehen mobilisieren"
+        }
+      ],
+      "excluded": [
+        {
+          "lep_id": "I_22521",
+          "title": "Bewegungstraining durchführen"
+        }
+      ],
+      "notes": [],
+      "active": true
+    },
+    {
+      "lep_id": "I_23100",
+      "structure_id": "1.3.1.20",
+      "title": "Transfer durchführen",
+      "default_time": 5,
+      "included": [
+        {
+          "lep_id": "I_22440",
+          "title": "An Bettrand mobilisieren"
+        },
+        {
+          "lep_id": "I_23575",
+          "title": "In das Bett mobilisieren"
+        },
+        {
+          "lep_id": "I_22737",
+          "title": "In das Stehbrett mobilisieren"
+        },
+        {
+          "lep_id": "I_22734",
+          "title": "In Rollstuhl mobilisieren"
+        },
+        {
+          "lep_id": "I_22736",
+          "title": "In Spezialstuhl mobilisieren"
+        },
+        {
+          "lep_id": "I_22733",
+          "title": "In Stuhl/Lehnstuhl mobilisieren"
+        }
+      ],
+      "excluded": [
+        {
+          "lep_id": "I_22460",
+          "title": "Auf neuen Liegeplatz umbetten"
+        },
+        {
+          "lep_id": "I_22735",
+          "title": "Auf Spezialbett umbetten"
+        },
+        {
+          "lep_id": "I_30786",
+          "title": "Transfertraining durchführen"
+        }
+      ],
+      "notes": [],
+      "active": true
+    },
+    {
+      "lep_id": "I_30786",
+      "structure_id": "1.3.1.21",
+      "title": "Transfertraining durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [
+        {
+          "lep_id": "I_23100",
+          "title": "Transfer durchführen"
+        }
+      ],
+      "notes": [],
+      "active": true
+    },
+    {
+      "lep_id": "I_23202",
+      "structure_id": "1.3.1.22",
+      "title": "Zum Stehen mobilisieren",
+      "default_time": 5,
+      "included": [
+        {
+          "lep_id": "I_22440",
+          "title": "An Bettrand mobilisieren"
+        }
+      ],
+      "excluded": [],
+      "notes": [],
+      "active": true
+    },
+    {
+      "lep_id": "I_22460",
+      "structure_id": "1.3.3.1",
+      "title": "Auf neuen Liegeplatz umbetten",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [],
+      "active": true
+    },
+    {
+      "lep_id": "LOCAL_V09_2_001",
+      "structure_id": null,
+      "title": "Vitalzeichen messen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_002",
+      "structure_id": null,
+      "title": "Atmung überwachen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_003",
+      "structure_id": null,
+      "title": "Infusion mit Zusatz verabreichen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_004",
+      "structure_id": null,
+      "title": "Sekret-/Drainagebehälter leeren/wechseln",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_005",
+      "structure_id": null,
+      "title": "Drainage überwachen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_006",
+      "structure_id": null,
+      "title": "Sauerstoffsättigung überwachen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_007",
+      "structure_id": null,
+      "title": "Material für Arztverrichtung vor-/nachbereiten",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_008",
+      "structure_id": null,
+      "title": "Verband Katheter/Kanüle wechseln",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_009",
+      "structure_id": null,
+      "title": "Gerät/System nachbereiten",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_010",
+      "structure_id": null,
+      "title": "Wunde versorgen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_011",
+      "structure_id": null,
+      "title": "Gerät/System vorbereiten",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_012",
+      "structure_id": null,
+      "title": "Gerät/System überprüfen/warten",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_013",
+      "structure_id": null,
+      "title": "Medikament peroral verabreichen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_014",
+      "structure_id": null,
+      "title": "Puls messen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_015",
+      "structure_id": null,
+      "title": "Blutdruck messen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_016",
+      "structure_id": null,
+      "title": "Körpertemperatur messen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_017",
+      "structure_id": null,
+      "title": "Bett zurechtmachen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_018",
+      "structure_id": null,
+      "title": "Bettwäsche wechseln",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_019",
+      "structure_id": null,
+      "title": "Inhalation unterstützen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_020",
+      "structure_id": null,
+      "title": "Verhalten beobachten",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_021",
+      "structure_id": null,
+      "title": "Atemtraining durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_022",
+      "structure_id": null,
+      "title": "Patientendokumentation führen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_023",
+      "structure_id": null,
+      "title": "Mahlzeit bereitstellen/abräumen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_024",
+      "structure_id": null,
+      "title": "Getränk bereitstellen/abräumen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_025",
+      "structure_id": null,
+      "title": "Venöse Blutentnahme durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_026",
+      "structure_id": null,
+      "title": "nächtlicher Rundgang",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_027",
+      "structure_id": null,
+      "title": "Gewicht messen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_028",
+      "structure_id": null,
+      "title": "Visite mit Ärztin/Behandlungsteam durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_029",
+      "structure_id": null,
+      "title": "Sauerstoff verabreichen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_030",
+      "structure_id": null,
+      "title": "Schmerz überwachen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_031",
+      "structure_id": null,
+      "title": "Ausscheidung überwachen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_032",
+      "structure_id": null,
+      "title": "Mikrolagerung durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_033",
+      "structure_id": null,
+      "title": "Schlaf-Wach-Rhythmus überwachen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_034",
+      "structure_id": null,
+      "title": "Blutentnahme assistieren",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_035",
+      "structure_id": null,
+      "title": "Verband Drain wechseln",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_036",
+      "structure_id": null,
+      "title": "Injektion s.c. verabreichen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_037",
+      "structure_id": null,
+      "title": "Patienteneigentum ein-/auspacken",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_038",
+      "structure_id": null,
+      "title": "Abhusten unterstützen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_039",
+      "structure_id": null,
+      "title": "Wund-/Verbandkontrolle durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_040",
+      "structure_id": null,
+      "title": "Ausfuhrmenge messen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_041",
+      "structure_id": null,
+      "title": "Seitenlagerung durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_042",
+      "structure_id": null,
+      "title": "Lagerung zur Nahrungsaufnahme durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_043",
+      "structure_id": null,
+      "title": "Teilkörper an-/auskleiden",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_044",
+      "structure_id": null,
+      "title": "Teilkörperwäsche durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_045",
+      "structure_id": null,
+      "title": "Ganzkörperwäsche durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_046",
+      "structure_id": null,
+      "title": "Flüssigkeits-/Nahrungsaufnahme überwachen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_047",
+      "structure_id": null,
+      "title": "Bettschüssel reichen/entfernen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_048",
+      "structure_id": null,
+      "title": "Urinbeutel leeren/wechseln",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_049",
+      "structure_id": null,
+      "title": "Atemstimulierende Einreibung durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_050",
+      "structure_id": null,
+      "title": "Inkontinenzmaterial wechseln",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_051",
+      "structure_id": null,
+      "title": "Sekret/Spüllösung messen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_052",
+      "structure_id": null,
+      "title": "Blutentnahme aus Kanüle/Katheter durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_053",
+      "structure_id": null,
+      "title": "Oberkörperhochlagerung durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_054",
+      "structure_id": null,
+      "title": "Darmgeräusche überwachen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_055",
+      "structure_id": null,
+      "title": "Blasenkatheterpflege durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_056",
+      "structure_id": null,
+      "title": "Sensorik/Motorik/Durchblutung überwachen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_057",
+      "structure_id": null,
+      "title": "Zahnprothese/-spange reinigen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_058",
+      "structure_id": null,
+      "title": "Spezialbett vor-/nachbereiten",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_059",
+      "structure_id": null,
+      "title": "Bewusstseinslage überwachen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_060",
+      "structure_id": null,
+      "title": "Blutung überwachen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_061",
+      "structure_id": null,
+      "title": "Bettplatzwechsel durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_062",
+      "structure_id": null,
+      "title": "Raumpflege organisieren",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_063",
+      "structure_id": null,
+      "title": "Verlegungsgespräch durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_064",
+      "structure_id": null,
+      "title": "Verlegung organisieren",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_065",
+      "structure_id": null,
+      "title": "Zimmerwechsel durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_066",
+      "structure_id": null,
+      "title": "Hautverhältnisse überwachen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_067",
+      "structure_id": null,
+      "title": "Eintrittsgespräch durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_068",
+      "structure_id": null,
+      "title": "Eintritt organisieren",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_069",
+      "structure_id": null,
+      "title": "Bettplatz vor-/nachbereiten",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_070",
+      "structure_id": null,
+      "title": "Assessment-/Anamnese erheben",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_071",
+      "structure_id": null,
+      "title": "Motivationsgespräch durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_072",
+      "structure_id": null,
+      "title": "MHH_Patientenidentifikationsarmband anlegen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_073",
+      "structure_id": null,
+      "title": "Abstrich abnehmen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_074",
+      "structure_id": null,
+      "title": "Hautschutz anbringen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_075",
+      "structure_id": null,
+      "title": "Ganzkörper an-/auskleiden",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_076",
+      "structure_id": null,
+      "title": "Urinflasche reichen/entfernen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_077",
+      "structure_id": null,
+      "title": "Körperhaare entfernen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_078",
+      "structure_id": null,
+      "title": "Infusion verabreichen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_079",
+      "structure_id": null,
+      "title": "Kompressionsstrümpfe anziehen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_080",
+      "structure_id": null,
+      "title": "Patientenhemd an-/auskleiden",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_081",
+      "structure_id": null,
+      "title": "Übelkeit/Erbrechen überwachen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_082",
+      "structure_id": null,
+      "title": "Ausscheidung mit Toilettenstuhl unterstützen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_083",
+      "structure_id": null,
+      "title": "Wundnaht versorgen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_084",
+      "structure_id": null,
+      "title": "Hilfsmittel nachbereiten",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_085",
+      "structure_id": null,
+      "title": "Hilfsmittel herstellen/anlegen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_086",
+      "structure_id": null,
+      "title": "Hilfsmittel vorbereiten/anpassen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_087",
+      "structure_id": null,
+      "title": "Hilfsmittel überprüfen/warten",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_088",
+      "structure_id": null,
+      "title": "Sturzberatung durchführen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_089",
+      "structure_id": null,
+      "title": "Essen/Trinken begleiten",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    },
+    {
+      "lep_id": "LOCAL_V09_2_090",
+      "structure_id": null,
+      "title": "Katheter/Kanüle entfernen",
+      "default_time": null,
+      "included": [],
+      "excluded": [],
+      "notes": [
+        "provisional_local_exact_match_from_unmatched_exports",
+        "included_excluded_not_yet_verified_against_lep_pdf"
+      ],
+      "active": true,
+      "source_type": "local_provisional"
+    }
+  ]
+}

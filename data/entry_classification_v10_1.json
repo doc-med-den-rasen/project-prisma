@@ -1,0 +1,91 @@
+{
+  "version": "v10.1",
+  "description": "Konservative Klassifikation für PRISMA. Keine automatischen Ähnlichkeitsmatches.",
+  "rules": {
+    "auto_similarity_matching_allowed": false,
+    "unknown_is_error": false,
+    "unknown_status": "needs_manual_classification"
+  },
+  "package_classes": {
+    "EQS Pneu": {
+      "class": "qm_compliance_marker",
+      "label": "QM-/Nachweis-Paket",
+      "notes": "Marker/Standard zur Pneumonie-Nachweislogik; nicht als normales LEP-Dublettenpaket behandeln."
+    },
+    "PPR 2.0 Zusatzdaten": {
+      "class": "ppr_marker",
+      "label": "PPR-/Einstufungslogik",
+      "notes": "Für spätere PPR-Mapping-Logik relevant."
+    },
+    "Tagesroutine": {
+      "class": "house_internal_standard",
+      "label": "Hausinterner Standard"
+    },
+    "Aufnahme": {
+      "class": "house_internal_standard",
+      "label": "Hausinterner Standard"
+    },
+    "Verlegung": {
+      "class": "house_internal_standard",
+      "label": "Hausinterner Standard"
+    },
+    "OP Vorbereitung": {
+      "class": "house_internal_standard",
+      "label": "Hausinterner Standard"
+    },
+    "OP-Vorbereitung": {
+      "class": "house_internal_standard",
+      "label": "Hausinterner Standard"
+    },
+    "Geräte und Hilfsmittel": {
+      "class": "manual_package",
+      "label": "Manuelles Paket"
+    },
+    "Überwachungen": {
+      "class": "manual_package",
+      "label": "Manuelles Paket"
+    },
+    "spezielle Überwachungen": {
+      "class": "manual_package",
+      "label": "Manuelles Paket"
+    },
+    "Infusionen 15/18/25": {
+      "class": "house_internal_procedure_package",
+      "label": "Hausinternes Maßnahmenpaket"
+    },
+    "VAC 15/18/25": {
+      "class": "house_internal_procedure_package",
+      "label": "Hausinternes Maßnahmenpaket"
+    },
+    "Redon 15/18/25": {
+      "class": "house_internal_procedure_package",
+      "label": "Hausinternes Maßnahmenpaket"
+    },
+    "Perfusoren 15/18/25": {
+      "class": "house_internal_procedure_package",
+      "label": "Hausinternes Maßnahmenpaket"
+    }
+  },
+  "fallbacks": {
+    "pmd_package": {
+      "class": "pmd_auto_package",
+      "label": "PMD-/automatisch ausgeleitetes Paket"
+    },
+    "unknown_package": {
+      "class": "unknown_or_needs_review",
+      "label": "Ungeklärt / manuell zu prüfen"
+    },
+    "lep_verified_service": {
+      "class": "lep_verified",
+      "label": "LEP-verifizierte Leistung"
+    },
+    "local_known_service": {
+      "class": "local_known",
+      "label": "Lokal bekannte Leistung"
+    },
+    "unmatched_service": {
+      "class": "needs_manual_classification",
+      "label": "Unbekannt / manuell zuordnen"
+    }
+  }
+}

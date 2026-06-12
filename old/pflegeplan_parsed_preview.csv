@@ -1,0 +1,162 @@
+﻿row_index,title,status,row_type,indent_level,package,package_is_pmd,entry_origin,parent_leistung,zyklentext,zyklus_kind
+90,Infusionen 15/18/25,Aktiv,paket,2,Infusionen 15/18/25,False,manuell,,,
+91,Infusion mit Zusatz verabreichen,Aktiv,leistung,4,Infusionen 15/18/25,False,manuell,,1x tgl. 07:00 Uhr,mehrfach_pro_tag
+92,Antibiotikum,Aktiv,detail,6,Infusionen 15/18/25,False,manuell,Infusion mit Zusatz verabreichen,,
+93,Infusion mit Zusatz verabreichen,Aktiv,leistung,4,Infusionen 15/18/25,False,manuell,,2x pro Tag 07:00/19:00 Uhr,mehrfach_pro_tag
+94,Antibiotikum,Aktiv,detail,6,Infusionen 15/18/25,False,manuell,Infusion mit Zusatz verabreichen,,
+95,Infusion mit Zusatz verabreichen,Aktiv,leistung,4,Infusionen 15/18/25,False,manuell,,3x pro Tag 07:00/15:00/22:00,mehrfach_pro_tag
+96,Antibiotikum,Aktiv,detail,6,Infusionen 15/18/25,False,manuell,Infusion mit Zusatz verabreichen,,
+97,Verband Katheter/Kanüle wechseln,Aktiv,leistung,4,Infusionen 15/18/25,False,manuell,,1x tgl. 10:00 Uhr,mehrfach_pro_tag
+98,Piccline,Aktiv,detail,6,Infusionen 15/18/25,False,manuell,Verband Katheter/Kanüle wechseln,,
+99,VAC 15/18/25,Aktiv,paket,2,VAC 15/18/25,False,manuell,,,
+100,Drainage überwachen,Aktiv,leistung,4,VAC 15/18/25,False,manuell,,3x pro Tag 08:00/16:00/22:00,mehrfach_pro_tag
+101,mit VAC Pumpe,Aktiv,detail,6,VAC 15/18/25,False,manuell,Drainage überwachen,,
+102,VAC rechts,Aktiv,detail,6,VAC 15/18/25,False,manuell,Drainage überwachen,,
+103,Sekret-/Drainagebehälter leeren/wechseln,Aktiv,leistung,4,VAC 15/18/25,False,manuell,,"1x tgl. 8 Uhr (MO, MI, FR)",mehrfach_pro_tag
+104,mit VAC Pumpe,Aktiv,detail,6,VAC 15/18/25,False,manuell,Sekret-/Drainagebehälter leeren/wechseln,,
+105,Sonstige Drainage,Aktiv,detail,6,VAC 15/18/25,False,manuell,Sekret-/Drainagebehälter leeren/wechseln,,
+106,Drainage überwachen,Aktiv,leistung,4,VAC 15/18/25,False,manuell,,3x pro Tag 08:00/16:00/22:00,mehrfach_pro_tag
+107,mit VAC Pumpe,Aktiv,detail,6,VAC 15/18/25,False,manuell,Drainage überwachen,,
+108,VAC links,Aktiv,detail,6,VAC 15/18/25,False,manuell,Drainage überwachen,,
+109,Sekret-/Drainagebehälter leeren/wechseln,Aktiv,leistung,4,VAC 15/18/25,False,manuell,,"1x tgl. 8 Uhr (MO, MI, FR)",mehrfach_pro_tag
+110,mit VAC Pumpe,Aktiv,detail,6,VAC 15/18/25,False,manuell,Sekret-/Drainagebehälter leeren/wechseln,,
+111,Vac rechts,Aktiv,detail,6,VAC 15/18/25,False,manuell,Sekret-/Drainagebehälter leeren/wechseln,,
+112,Tagesroutine,Aktiv,paket,2,Tagesroutine,False,manuell,,,
+113,Bett zurechtmachen,Aktiv,leistung,4,Tagesroutine,False,manuell,,1x tgl. 08:00 Uhr,mehrfach_pro_tag
+114,Bettwäsche wechseln,Aktiv,leistung,4,Tagesroutine,False,manuell,,1x tgl. 08:00 Uhr,mehrfach_pro_tag
+115,Blutentnahme aus Kanüle/Katheter durchführen,Aktiv,leistung,4,Tagesroutine,False,manuell,,1x tgl. 08:00 Uhr,mehrfach_pro_tag
+116,Blutentnahme assistieren,Aktiv,leistung,4,Tagesroutine,False,manuell,,1x tgl. 08:00 Uhr,mehrfach_pro_tag
+118,Getränk bereitstellen/abräumen,Aktiv,leistung,4,Tagesroutine,False,manuell,,4x pro Tag zur Essenszeit,mehrfach_pro_tag
+121,Injektion s.c. verabreichen,Aktiv,leistung,4,Tagesroutine,False,manuell,,1x tgl. 18:00 Uhr,mehrfach_pro_tag
+122,Antikoagulation,Aktiv,detail,6,Tagesroutine,False,manuell,Injektion s.c. verabreichen,,
+123,Mahlzeit bereitstellen/abräumen,Aktiv,leistung,4,Tagesroutine,False,manuell,,4x pro Tag zur Essenszeit,mehrfach_pro_tag
+124,Medikament peroral verabreichen,Aktiv,leistung,4,Tagesroutine,False,manuell,,3x pro Tag 08:00/16:00/22:00,mehrfach_pro_tag
+125,Material für Arztverrichtung vor-/nachbereiten,Aktiv,leistung,4,Tagesroutine,False,manuell,,1x tgl. 08:00 Uhr,mehrfach_pro_tag
+126,Patientendokumentation führen,Aktiv,leistung,4,Tagesroutine,False,manuell,,3x pro Tag 08:00/16:00/22:00,mehrfach_pro_tag
+127,Vitalzeichen messen,Aktiv,leistung,4,Tagesroutine,False,manuell,,3x pro Tag 07:00/15:00/21:00,mehrfach_pro_tag
+128,Visite mit Ärztin/Behandlungsteam durchführen,Aktiv,leistung,4,Tagesroutine,False,manuell,,1x tgl. 10:00 Uhr,mehrfach_pro_tag
+129,Venöse Blutentnahme durchführen,Aktiv,leistung,4,Tagesroutine,False,manuell,,1x tgl. 08:00 Uhr,mehrfach_pro_tag
+130,nächtlicher Rundgang,Aktiv,leistung,4,Tagesroutine,False,manuell,,"5x pro Tag nachts 21, 23, 01, 03, 05",mehrfach_pro_tag
+131,EQS Pneu,Aktiv,paket,2,EQS Pneu,False,manuell,,,
+132,Atmung überwachen,Aktiv,leistung,4,EQS Pneu,False,manuell,,Zyklus für die EQS-Erfassung: Tage 1/3/7,sonderzyklus
+133,Atemfrequenz,Aktiv,detail,6,EQS Pneu,False,manuell,Atmung überwachen,,
+134,Sauerstoffsättigung überwachen,Aktiv,leistung,4,EQS Pneu,False,manuell,,Zyklus für die EQS-Erfassung: Tage 1/3/7,sonderzyklus
+135,Vitalzeichen messen,Aktiv,leistung,4,EQS Pneu,False,manuell,,Zyklus für die EQS-Erfassung: Tage 1/3/7,sonderzyklus
+136,Puls messen,Aktiv,detail,6,EQS Pneu,False,manuell,Vitalzeichen messen,,
+137,Blutdruck messen,Aktiv,detail,6,EQS Pneu,False,manuell,Vitalzeichen messen,,
+138,Körpertemperatur messen,Aktiv,detail,6,EQS Pneu,False,manuell,Vitalzeichen messen,,
+247,10 Dekubitus/Wunde (PMD),Aktiv,paket,2,10 Dekubitus/Wunde (PMD),True,PMD,,,
+248,Dekubitsrisiko (Experteneinschätzung): Weitere Risikoindikatoren vorhanden [1],Aktiv,leistung,4,10 Dekubitus/Wunde (PMD),True,PMD,,,
+249,Dekubitus Kategorie/ Stadium III,Aktiv,leistung,4,10 Dekubitus/Wunde (PMD),True,PMD,,,
+250,Wunde [1],Aktiv,leistung,4,10 Dekubitus/Wunde (PMD),True,PMD,,,
+251,Dekubitusrisiko (Braden): hoch [1],Aktiv,leistung,4,10 Dekubitus/Wunde (PMD),True,PMD,,,
+252,Dekubitusrisiko: Experteneinschätz = Ja,Aktiv,leistung,4,10 Dekubitus/Wunde (PMD),True,PMD,,,
+253,Wunde versorgen,Aktiv,leistung,4,10 Dekubitus/Wunde (PMD),True,PMD,,1x tgl. 08:00 Uhr,mehrfach_pro_tag
+254,Wunde..,Aktiv,detail,6,10 Dekubitus/Wunde (PMD),True,PMD,Wunde versorgen,,
+255,Wunde versorgen,Aktiv,leistung,4,10 Dekubitus/Wunde (PMD),True,PMD,,1x tgl. 08:00 Uhr,mehrfach_pro_tag
+256,Dekubitus..,Aktiv,detail,6,10 Dekubitus/Wunde (PMD),True,PMD,Wunde versorgen,,
+257,Wund-/Verbandkontrolle durchführen,Aktiv,leistung,4,10 Dekubitus/Wunde (PMD),True,PMD,,3x pro Tag 08:00/16:00/22:00,mehrfach_pro_tag
+258,Wunde..,Aktiv,detail,6,10 Dekubitus/Wunde (PMD),True,PMD,Wund-/Verbandkontrolle durchführen,,
+259,Dekubitus..,Aktiv,detail,6,10 Dekubitus/Wunde (PMD),True,PMD,Wund-/Verbandkontrolle durchführen,,
+303,04 Ausscheidung (PMD),Aktiv,paket,2,04 Ausscheidung (PMD),True,PMD,,,
+304,Kontinenzprofil: abhängig kompensierte Inkontinenz,Aktiv,leistung,4,04 Ausscheidung (PMD),True,PMD,,,
+305,Obstipation [1a],Aktiv,leistung,4,04 Ausscheidung (PMD),True,PMD,,,
+306,Stuhlkontrolle: fehlt [1],Aktiv,leistung,4,04 Ausscheidung (PMD),True,PMD,,,
+307,Stuhlausscheidg: keine Fähigkeit [1],Aktiv,leistung,4,04 Ausscheidung (PMD),True,PMD,,,
+308,Urinausscheidung: keine Fähigkeit [1],Aktiv,leistung,4,04 Ausscheidung (PMD),True,PMD,,,
+309,Urinkontrolle fehlt [1],Aktiv,leistung,4,04 Ausscheidung (PMD),True,PMD,,,
+310,Urinableitung [1],Aktiv,leistung,4,04 Ausscheidung (PMD),True,PMD,,,
+311,Dranghafte/gesteigerte Ausscheidung [1],Aktiv,leistung,4,04 Ausscheidung (PMD),True,PMD,,,
+312,Hautfeuchte: oft feucht [2],Aktiv,leistung,4,04 Ausscheidung (PMD),True,PMD,,,
+313,Ausfuhrmenge messen,Aktiv,leistung,4,04 Ausscheidung (PMD),True,PMD,,3x pro Tag 05:00/12:00/19:00,mehrfach_pro_tag
+314,Darmgeräusche überwachen,Aktiv,leistung,4,04 Ausscheidung (PMD),True,PMD,,3x pro Tag 08:00/16:00/22:00,mehrfach_pro_tag
+315,Ausscheidung überwachen,Aktiv,leistung,4,04 Ausscheidung (PMD),True,PMD,,3x pro Tag 08:00/16:00/22:00,mehrfach_pro_tag
+316,Urinbeutel leeren/wechseln,Aktiv,leistung,4,04 Ausscheidung (PMD),True,PMD,,3x pro Tag 06:00/14:00/22:00,mehrfach_pro_tag
+317,Inkontinenzmaterial wechseln,Aktiv,leistung,4,04 Ausscheidung (PMD),True,PMD,,alle 3 Stunden,stundenintervall
+318,Bettschüssel reichen/entfernen,Aktiv,leistung,4,04 Ausscheidung (PMD),True,PMD,,4x pro Tag vor den Mahlzeiten,mehrfach_pro_tag
+319,Blasenkatheterpflege durchführen,Aktiv,leistung,4,04 Ausscheidung (PMD),True,PMD,,2x pro Tag 08:00/20:00 Uhr,mehrfach_pro_tag
+334,07 Schlaf (PMD),Aktiv,paket,2,07 Schlaf (PMD),True,PMD,,,
+335,Schlaf-Wach-Rhythmus: verändert [1],Aktiv,leistung,4,07 Schlaf (PMD),True,PMD,,,
+336,Ein-/ Durchschlafen: beeinträchtigt [1],Aktiv,leistung,4,07 Schlaf (PMD),True,PMD,,,
+337,Schlaf-Wach-Rhythmus überwachen,Aktiv,leistung,4,07 Schlaf (PMD),True,PMD,,2x pro Tag 08:00/20:00 Uhr,mehrfach_pro_tag
+357,Geräte und Hilfsmittel,Aktiv,paket,2,Geräte und Hilfsmittel,False,manuell,,,
+358,Gerät/System nachbereiten,Aktiv,leistung,4,Geräte und Hilfsmittel,False,manuell,,1x tgl. 10:00 Uhr,mehrfach_pro_tag
+359,Dekubitusprophylaxe Matratze,Aktiv,detail,6,Geräte und Hilfsmittel,False,manuell,Gerät/System nachbereiten,,
+360,Gerät/System überprüfen/warten,Aktiv,leistung,4,Geräte und Hilfsmittel,False,manuell,,3x pro Tag 08:00/16:00/22:00,mehrfach_pro_tag
+361,Dekubitusprophylaxe Matratze,Aktiv,detail,6,Geräte und Hilfsmittel,False,manuell,Gerät/System überprüfen/warten,,
+362,Gerät/System vorbereiten,Aktiv,leistung,4,Geräte und Hilfsmittel,False,manuell,,1x tgl. 08:00 Uhr,mehrfach_pro_tag
+363,Dekubitusprophylaxe Matratze,Aktiv,detail,6,Geräte und Hilfsmittel,False,manuell,Gerät/System vorbereiten,,
+364,Spezialbett vor-/nachbereiten,Aktiv,leistung,4,Geräte und Hilfsmittel,False,manuell,,3x pro Tag 08:00/16:00/22:00,mehrfach_pro_tag
+365,PPR 2.0 Zusatzdaten,Aktiv,paket,2,PPR 2.0 Zusatzdaten,False,manuell,,,
+366,starkes Schwitzen,Aktiv,leistung,4,PPR 2.0 Zusatzdaten,False,manuell,,,
+367,Große Wunde,Aktiv,leistung,4,PPR 2.0 Zusatzdaten,False,manuell,,,
+368,Tiefe Wunde,Aktiv,leistung,4,PPR 2.0 Zusatzdaten,False,manuell,,,
+387,02 Körperpflege (PMD),Aktiv,paket,2,02 Körperpflege (PMD),True,PMD,,,
+388,An-/Auskleiden OK: keine Fähigkeit [1],Aktiv,leistung,4,02 Körperpflege (PMD),True,PMD,,,
+389,An-/Auskleiden UK: keine Fähigkeit [1],Aktiv,leistung,4,02 Körperpflege (PMD),True,PMD,,,
+390,Mundstatus: leicht verändert [2],Aktiv,leistung,4,02 Körperpflege (PMD),True,PMD,,,
+391,Körperpflege UK: keine Fähigkeit [1],Aktiv,leistung,4,02 Körperpflege (PMD),True,PMD,,,
+392,Körperpflege OK: stark beeinträchtigt [2],Aktiv,leistung,4,02 Körperpflege (PMD),True,PMD,,,
+393,Teilkörper an-/auskleiden,Aktiv,leistung,4,02 Körperpflege (PMD),True,PMD,,1x tgl. 19:00 Uhr,mehrfach_pro_tag
+394,Zahnprothese/-spange reinigen,Aktiv,leistung,4,02 Körperpflege (PMD),True,PMD,,2x pro Tag 08:00/20:00 Uhr,mehrfach_pro_tag
+395,Teilkörperwäsche durchführen,Aktiv,leistung,4,02 Körperpflege (PMD),True,PMD,,1x tgl. 19:00 Uhr,mehrfach_pro_tag
+396,Ganzkörperwäsche durchführen,Aktiv,leistung,4,02 Körperpflege (PMD),True,PMD,,1x tgl. 08:00 Uhr,mehrfach_pro_tag
+397,Motor Relearning Programm,Aktiv,detail,6,02 Körperpflege (PMD),True,PMD,Ganzkörperwäsche durchführen,,
+415,03 Ernährung (PMD),Aktiv,paket,2,03 Ernährung (PMD),True,PMD,,,
+416,Essen: gering beeinträchtigt [3],Aktiv,leistung,4,03 Ernährung (PMD),True,PMD,,,
+417,Nahrungsmenge (oral): bis 50% TB [2],Aktiv,leistung,4,03 Ernährung (PMD),True,PMD,,,
+418,Nahrungsmenge (ges.): 25 - 50% TB [2],Aktiv,leistung,4,03 Ernährung (PMD),True,PMD,,,
+419,Energie-/Nährstoffbedarf: erhöht [2],Aktiv,leistung,4,03 Ernährung (PMD),True,PMD,,,
+420,Trinken: gering beeinträchtigt [3],Aktiv,leistung,4,03 Ernährung (PMD),True,PMD,,,
+421,Trinkmenge 1001 - 1500 ml [3],Aktiv,leistung,4,03 Ernährung (PMD),True,PMD,,,
+422,Flüssigkeitsergänzung 501 - 1000 ml [2],Aktiv,leistung,4,03 Ernährung (PMD),True,PMD,,,
+423,Flüssigkeitsbedarf erhöht,Aktiv,leistung,4,03 Ernährung (PMD),True,PMD,,,
+424,Risiko Mangelernährung: erhöht [1],Aktiv,leistung,4,03 Ernährung (PMD),True,PMD,,,
+425,Zahnprothese [1a],Aktiv,leistung,4,03 Ernährung (PMD),True,PMD,,,
+426,Flüssigkeits-/Nahrungsaufnahme überwachen,Aktiv,leistung,4,03 Ernährung (PMD),True,PMD,,4x pro Tag zur Essenszeit,mehrfach_pro_tag
+427,Lagerung zur Nahrungsaufnahme durchführen,Aktiv,leistung,4,03 Ernährung (PMD),True,PMD,,4x pro Tag vor den Mahlzeiten,mehrfach_pro_tag
+450,11 Regulation von Körperfunktionen (PMD),Aktiv,paket,2,11 Regulation von Körperfunktionen (PMD),True,PMD,,,
+451,Pneumonierisiko: erhöht [1],Aktiv,leistung,4,11 Regulation von Körperfunktionen (PMD),True,PMD,,,
+452,chronische Erkrankung des Atmungssystems [1],Aktiv,leistung,4,11 Regulation von Körperfunktionen (PMD),True,PMD,,,
+453,Atmung: beeinträchtigt (aktuell) [1],Aktiv,leistung,4,11 Regulation von Körperfunktionen (PMD),True,PMD,,,
+454,Atemstimulierende Einreibung durchführen,Aktiv,leistung,4,11 Regulation von Körperfunktionen (PMD),True,PMD,,3x pro Tag 08:00/16:00/22:00,mehrfach_pro_tag
+455,Atmung überwachen,Aktiv,leistung,4,11 Regulation von Körperfunktionen (PMD),True,PMD,,3x pro Tag 08:00/16:00/22:00,mehrfach_pro_tag
+456,Atemfrequenz,Aktiv,detail,6,11 Regulation von Körperfunktionen (PMD),True,PMD,Atmung überwachen,,
+457,Sauerstoff verabreichen,Aktiv,leistung,4,11 Regulation von Körperfunktionen (PMD),True,PMD,,Bei Bedarf,bei_bedarf
+458,Inhalation unterstützen,Aktiv,leistung,4,11 Regulation von Körperfunktionen (PMD),True,PMD,,3x pro Tag 08:00/16:00/22:00,mehrfach_pro_tag
+459,Atemtraining durchführen,Aktiv,leistung,4,11 Regulation von Körperfunktionen (PMD),True,PMD,,3x pro Tag 08:00/16:00/22:00,mehrfach_pro_tag
+460,Abhusten unterstützen,Aktiv,leistung,4,11 Regulation von Körperfunktionen (PMD),True,PMD,,Bei Bedarf,bei_bedarf
+461,Oberkörperhochlagerung durchführen,Aktiv,leistung,4,11 Regulation von Körperfunktionen (PMD),True,PMD,,3x pro Tag 08:00/16:00/22:00,mehrfach_pro_tag
+477,05 Kognition / Bewusstsein (PMD),Aktiv,paket,2,05 Kognition / Bewusstsein (PMD),True,PMD,,,
+478,Orientierung: zu drei Qualitäten orientiert [3],Aktiv,leistung,4,05 Kognition / Bewusstsein (PMD),True,PMD,,,
+479,Informat. verarbeit.: gering beeinträchtigt [3],Aktiv,leistung,4,05 Kognition / Bewusstsein (PMD),True,PMD,,,
+480,Alltagskompetenz: stark beeinträchtigt [2],Aktiv,leistung,4,05 Kognition / Bewusstsein (PMD),True,PMD,,,
+481,Einnahme Sturz- und/ oder Delir-Risiko erhöhender Medikamente [1],Aktiv,leistung,4,05 Kognition / Bewusstsein (PMD),True,PMD,,,
+482,Aufmerksamkeit: kontinuierlich beeinträchtigt [1].,Aktiv,leistung,4,05 Kognition / Bewusstsein (PMD),True,PMD,,,
+483,Verhalten beobachten,Aktiv,leistung,4,05 Kognition / Bewusstsein (PMD),True,PMD,,3x pro Tag 08:00/16:00/22:00,mehrfach_pro_tag
+484,06 Kommunikation und Interaktion (PMD),Aktiv,paket,2,06 Kommunikation und Interaktion (PMD),True,PMD,,,
+485,selbst initiierte Aktivitäten: keine Aktivitäten erkennbar [1],Aktiv,leistung,4,06 Kommunikation und Interaktion (PMD),True,PMD,,,
+486,Hörgerät [1a],Aktiv,leistung,4,06 Kommunikation und Interaktion (PMD),True,PMD,,,
+487,Abklärungserfordernis neurokognitive Störung [1],Aktiv,leistung,4,06 Kommunikation und Interaktion (PMD),True,PMD,,,
+488,Hören: Schwerhörigkeit [2],Aktiv,leistung,4,06 Kommunikation und Interaktion (PMD),True,PMD,,,
+489,Sehen: beeinträchtigt [2],Aktiv,leistung,4,06 Kommunikation und Interaktion (PMD),True,PMD,,,
+509,01 Bewegung (PMD),Aktiv,paket,2,01 Bewegung (PMD),True,PMD,,,
+510,Prothese/ Orthese [1],Aktiv,leistung,4,01 Bewegung (PMD),True,PMD,,,
+511,Dekubitusrisiko (Braden): hoch [1],Aktiv,leistung,4,01 Bewegung (PMD),True,PMD,,,
+512,Dekubitusrisiko: Experteneinschätz = Ja,Aktiv,leistung,4,01 Bewegung (PMD),True,PMD,,,
+513,Posit.wechsel im Liegen: keine Fähigkeit [1],Aktiv,leistung,4,01 Bewegung (PMD),True,PMD,,,
+514,Sitzposit. halten: keine Fähigkeit [1],Aktiv,leistung,4,01 Bewegung (PMD),True,PMD,,,
+515,Transfer: keine Fähigkeit [1],Aktiv,leistung,4,01 Bewegung (PMD),True,PMD,,,
+516,Fortbew.: keine Fähigkeit/ Bettruhe [1],Aktiv,leistung,4,01 Bewegung (PMD),True,PMD,,,
+517,Reibung/ Scherkräfte: ausgeprägt [1],Aktiv,leistung,4,01 Bewegung (PMD),True,PMD,,,
+518,Erschöpfung / Fatigue: fehlende Körperkraft/ Energie [1],Aktiv,leistung,4,01 Bewegung (PMD),True,PMD,,,
+519,Sturzrisiko: erhöht [1],Aktiv,leistung,4,01 Bewegung (PMD),True,PMD,,,
+520,Seitenlagerung durchführen,Aktiv,leistung,4,01 Bewegung (PMD),True,PMD,,alle 2 Stunden (ungerade Uhrzeit),stundenintervall
+521,Mikrolagerung durchführen,Aktiv,leistung,4,01 Bewegung (PMD),True,PMD,,4x pro Tag 08:00/14:00/22:00/02:00,mehrfach_pro_tag
+530,09 Schmerz und emotionales Empfinden (PMD),Aktiv,paket,2,09 Schmerz und emotionales Empfinden (PMD),True,PMD,,,
+531,Chronische Schmerzen [1],Aktiv,leistung,4,09 Schmerz und emotionales Empfinden (PMD),True,PMD,,,
+532,Traurigkeit: mittel (S) [S2],Aktiv,leistung,4,09 Schmerz und emotionales Empfinden (PMD),True,PMD,,,
+533,Angst: gering (S) [S3],Aktiv,leistung,4,09 Schmerz und emotionales Empfinden (PMD),True,PMD,,,
+534,sensor. Wahrnehmung: eingeschränkt [2],Aktiv,leistung,4,09 Schmerz und emotionales Empfinden (PMD),True,PMD,,,
+535,Sensorik/Motorik/Durchblutung überwachen,Aktiv,leistung,4,09 Schmerz und emotionales Empfinden (PMD),True,PMD,,3x pro Tag 07:00/15:00/21:00,mehrfach_pro_tag
+536,Schmerz überwachen,Aktiv,leistung,4,09 Schmerz und emotionales Empfinden (PMD),True,PMD,,3x pro Tag 08:00/16:00/22:00,mehrfach_pro_tag

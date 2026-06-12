@@ -1,0 +1,91 @@
+﻿base_title;count;packages;examples
+Vitalzeichen messen;12;Aufnahme | EQS Pneu | Tagesroutine;Vitalzeichen messen
+Atmung überwachen;10;11 Regulation von Körperfunktionen | EQS Pneu;Atmung überwachen
+Infusion mit Zusatz verabreichen;10;EQS Pneu | Infusionen 15/18/25 | Perfusoren 15/18/25;Infusion mit Zusatz verabreichen | Infusion mit Zusatz verabreichen [1/3] | Infusion mit Zusatz verabreichen [2/3] | Infusion mit Zusatz verabreichen [3/3]
+Drainage überwachen;8;Redon 15/18/25 | VAC 15/18/25;Drainage überwachen | Drainage überwachen [1/2] | Drainage überwachen [2/2]
+Sekret-/Drainagebehälter leeren/wechseln;8;Redon 15/18/25 | VAC 15/18/25;Sekret-/Drainagebehälter leeren/wechseln | Sekret-/Drainagebehälter leeren/wechseln [1/2] | Sekret-/Drainagebehälter leeren/wechseln [2/2]
+Material für Arztverrichtung vor-/nachbereiten;7;Aufnahme | Tagesroutine;Material für Arztverrichtung vor-/nachbereiten
+Sauerstoffsättigung überwachen;7;Aufnahme | EQS Pneu;Sauerstoffsättigung überwachen
+Gerät/System nachbereiten;6;Geräte und Hilfsmittel | Perfusoren 15/18/25;Gerät/System nachbereiten
+Gerät/System vorbereiten;6;Geräte und Hilfsmittel | Perfusoren 15/18/25;Gerät/System vorbereiten
+Gerät/System überprüfen/warten;6;Geräte und Hilfsmittel | Perfusoren 15/18/25;Gerät/System überprüfen/warten
+Medikament peroral verabreichen;6;OP Vorbereitung | Tagesroutine;Medikament peroral verabreichen
+Verband Katheter/Kanüle wechseln;6;10 Dekubitus/Wunde | EQS Pneu | Infusionen 15/18/25 | Perfusoren 15/18/25;Verband Katheter/Kanüle wechseln | Verband Katheter/Kanüle wechseln [1/2] | Verband Katheter/Kanüle wechseln [2/2]
+Wunde versorgen;6;10 Dekubitus/Wunde;Wunde versorgen | Wunde versorgen [1/2] | Wunde versorgen [2/2]
+Atemtraining durchführen;5;11 Regulation von Körperfunktionen;Atemtraining durchführen
+Bett zurechtmachen;5;Tagesroutine;Bett zurechtmachen
+Bettwäsche wechseln;5;Tagesroutine;Bettwäsche wechseln
+Blutdruck messen;5;EQS Pneu;Blutdruck messen
+Getränk bereitstellen/abräumen;5;Tagesroutine;Getränk bereitstellen/abräumen
+Gewicht messen;5;03 Ernährung | Tagesroutine;Gewicht messen
+Inhalation unterstützen;5;11 Regulation von Körperfunktionen;Inhalation unterstützen
+Körpertemperatur messen;5;EQS Pneu;Körpertemperatur messen
+Mahlzeit bereitstellen/abräumen;5;Tagesroutine;Mahlzeit bereitstellen/abräumen
+Patientendokumentation führen;5;Tagesroutine;Patientendokumentation führen
+Puls messen;5;EQS Pneu;Puls messen
+Venöse Blutentnahme durchführen;5;Aufnahme | Tagesroutine;Venöse Blutentnahme durchführen
+Verhalten beobachten;5;05 Kognition / Bewusstsein;Verhalten beobachten
+Visite mit Ärztin/Behandlungsteam durchführen;5;Tagesroutine;Visite mit Ärztin/Behandlungsteam durchführen
+nächtlicher Rundgang;5;Tagesroutine;nächtlicher Rundgang
+Abhusten unterstützen;4;11 Regulation von Körperfunktionen;Abhusten unterstützen
+Ausscheidung überwachen;4;04 Ausscheidung;Ausscheidung überwachen
+Blutentnahme assistieren;4;Tagesroutine;Blutentnahme assistieren
+Injektion s.c. verabreichen;4;Tagesroutine;Injektion s.c. verabreichen
+Mikrolagerung durchführen;4;01 Bewegung;Mikrolagerung durchführen
+Patienteneigentum ein-/auspacken;4;Aufnahme | Verlegung;Patienteneigentum ein-/auspacken
+Sauerstoff verabreichen;4;11 Regulation von Körperfunktionen;Sauerstoff verabreichen
+Schlaf-Wach-Rhythmus überwachen;4;07 Schlaf;Schlaf-Wach-Rhythmus überwachen
+Schmerz überwachen;4;09 Schmerz und emotionales Empfinden;Schmerz überwachen
+Verband Drain wechseln;4;Redon 15/18/25;Verband Drain wechseln [1/2] | Verband Drain wechseln [2/2]
+Wund-/Verbandkontrolle durchführen;4;10 Dekubitus/Wunde;Wund-/Verbandkontrolle durchführen
+Atemstimulierende Einreibung durchführen;3;11 Regulation von Körperfunktionen;Atemstimulierende Einreibung durchführen
+Ausfuhrmenge messen;3;04 Ausscheidung;Ausfuhrmenge messen
+Bettschüssel reichen/entfernen;3;04 Ausscheidung;Bettschüssel reichen/entfernen
+Blutentnahme aus Kanüle/Katheter durchführen;3;Tagesroutine;Blutentnahme aus Kanüle/Katheter durchführen
+Flüssigkeits-/Nahrungsaufnahme überwachen;3;03 Ernährung;Flüssigkeits-/Nahrungsaufnahme überwachen
+Ganzkörperwäsche durchführen;3;02 Körperpflege;Ganzkörperwäsche durchführen
+Inkontinenzmaterial wechseln;3;04 Ausscheidung;Inkontinenzmaterial wechseln
+Lagerung zur Nahrungsaufnahme durchführen;3;03 Ernährung;Lagerung zur Nahrungsaufnahme durchführen
+Oberkörperhochlagerung durchführen;3;11 Regulation von Körperfunktionen;Oberkörperhochlagerung durchführen
+Seitenlagerung durchführen;3;01 Bewegung;Seitenlagerung durchführen
+Sekret/Spüllösung messen;3;Redon 15/18/25;Sekret/Spüllösung messen | Sekret/Spüllösung messen [1/2] | Sekret/Spüllösung messen [2/2]
+Teilkörper an-/auskleiden;3;02 Körperpflege;Teilkörper an-/auskleiden
+Teilkörperwäsche durchführen;3;02 Körperpflege;Teilkörperwäsche durchführen
+Urinbeutel leeren/wechseln;3;04 Ausscheidung;Urinbeutel leeren/wechseln
+Assessment-/Anamnese erheben;2;Aufnahme;Assessment-/Anamnese erheben
+Bettplatz vor-/nachbereiten;2;Aufnahme;Bettplatz vor-/nachbereiten
+Bettplatzwechsel durchführen;2;Verlegung;Bettplatzwechsel durchführen
+Bewusstseinslage überwachen;2;EQS Pneu;Bewusstseinslage überwachen
+Blasenkatheterpflege durchführen;2;04 Ausscheidung;Blasenkatheterpflege durchführen
+Blutung überwachen;2;EQS Pneu;Blutung überwachen
+Darmgeräusche überwachen;2;04 Ausscheidung;Darmgeräusche überwachen
+Eintritt organisieren;2;Aufnahme;Eintritt organisieren
+Eintrittsgespräch durchführen;2;Aufnahme;Eintrittsgespräch durchführen
+Hautverhältnisse überwachen;2;01 Bewegung | 10 Dekubitus/Wunde;Hautverhältnisse überwachen
+MHH_Patientenidentifikationsarmband anlegen;2;Aufnahme;MHH_Patientenidentifikationsarmband anlegen
+Motivationsgespräch durchführen;2;01 Bewegung | 03 Ernährung;Motivationsgespräch durchführen
+Raumpflege organisieren;2;Verlegung;Raumpflege organisieren
+Sensorik/Motorik/Durchblutung überwachen;2;09 Schmerz und emotionales Empfinden;Sensorik/Motorik/Durchblutung überwachen
+Spezialbett vor-/nachbereiten;2;Geräte und Hilfsmittel;Spezialbett vor-/nachbereiten
+Verlegung organisieren;2;Verlegung;Verlegung organisieren
+Verlegungsgespräch durchführen;2;Verlegung;Verlegungsgespräch durchführen
+Zahnprothese/-spange reinigen;2;02 Körperpflege;Zahnprothese/-spange reinigen
+Zimmerwechsel durchführen;2;Verlegung;Zimmerwechsel durchführen
+Abstrich abnehmen;1;Aufnahme;Abstrich abnehmen
+Ausscheidung mit Toilettenstuhl unterstützen;1;04 Ausscheidung;Ausscheidung mit Toilettenstuhl unterstützen
+Essen/Trinken begleiten;1;03 Ernährung;Essen/Trinken begleiten
+Ganzkörper an-/auskleiden;1;02 Körperpflege;Ganzkörper an-/auskleiden
+Hautschutz anbringen;1;04 Ausscheidung;Hautschutz anbringen
+Hilfsmittel herstellen/anlegen;1;Geräte und Hilfsmittel;Hilfsmittel herstellen/anlegen
+Hilfsmittel nachbereiten;1;Geräte und Hilfsmittel;Hilfsmittel nachbereiten
+Hilfsmittel vorbereiten/anpassen;1;Geräte und Hilfsmittel;Hilfsmittel vorbereiten/anpassen
+Hilfsmittel überprüfen/warten;1;Geräte und Hilfsmittel;Hilfsmittel überprüfen/warten
+Infusion verabreichen;1;Infusionen 15/18/25;Infusion verabreichen
+Katheter/Kanüle entfernen;1;EQS Pneu;Katheter/Kanüle entfernen
+Kompressionsstrümpfe anziehen;1;OP Vorbereitung;Kompressionsstrümpfe anziehen
+Körperhaare entfernen;1;OP Vorbereitung;Körperhaare entfernen
+Patientenhemd an-/auskleiden;1;OP Vorbereitung;Patientenhemd an-/auskleiden
+Sturzberatung durchführen;1;01 Bewegung;Sturzberatung durchführen
+Urinflasche reichen/entfernen;1;04 Ausscheidung;Urinflasche reichen/entfernen
+Wundnaht versorgen;1;10 Dekubitus/Wunde;Wundnaht versorgen
+Übelkeit/Erbrechen überwachen;1;03 Ernährung;Übelkeit/Erbrechen überwachen

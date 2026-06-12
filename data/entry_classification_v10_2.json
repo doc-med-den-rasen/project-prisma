@@ -1,0 +1,125 @@
+{
+  "version": "v10.2",
+  "description": "Konservative Klassifikation und Review-Sortierung für PRISMA. Keine automatischen Ähnlichkeitsmatches.",
+  "rules": {
+    "auto_similarity_matching_allowed": false,
+    "unknown_is_error": false,
+    "unknown_status": "needs_manual_classification",
+    "unknown_entries_are_review_items": true,
+    "review_classification_is_not_a_match": true
+  },
+  "package_classes": {
+    "EQS Pneu": {
+      "class": "qm_compliance_marker",
+      "label": "QM-/Nachweis-Paket",
+      "notes": "Marker/Standard zur Pneumonie-Nachweislogik; nicht als normales LEP-Dublettenpaket behandeln."
+    },
+    "PPR 2.0 Zusatzdaten": {
+      "class": "ppr_marker",
+      "label": "PPR-/Einstufungslogik",
+      "notes": "Für spätere PPR-Mapping-Logik relevant."
+    },
+    "Tagesroutine": {
+      "class": "house_internal_standard",
+      "label": "Hausinterner Standard"
+    },
+    "Aufnahme": {
+      "class": "house_internal_standard",
+      "label": "Hausinterner Standard"
+    },
+    "Verlegung": {
+      "class": "house_internal_standard",
+      "label": "Hausinterner Standard"
+    },
+    "OP Vorbereitung": {
+      "class": "house_internal_standard",
+      "label": "Hausinterner Standard"
+    },
+    "OP-Vorbereitung": {
+      "class": "house_internal_standard",
+      "label": "Hausinterner Standard"
+    },
+    "Geräte und Hilfsmittel": {
+      "class": "manual_package",
+      "label": "Manuelles Paket"
+    },
+    "Überwachungen": {
+      "class": "manual_package",
+      "label": "Manuelles Paket"
+    },
+    "spezielle Überwachungen": {
+      "class": "manual_package",
+      "label": "Manuelles Paket"
+    },
+    "Infusionen 15/18/25": {
+      "class": "house_internal_procedure_package",
+      "label": "Hausinternes Maßnahmenpaket"
+    },
+    "VAC 15/18/25": {
+      "class": "house_internal_procedure_package",
+      "label": "Hausinternes Maßnahmenpaket"
+    },
+    "Redon 15/18/25": {
+      "class": "house_internal_procedure_package",
+      "label": "Hausinternes Maßnahmenpaket"
+    },
+    "Perfusoren 15/18/25": {
+      "class": "house_internal_procedure_package",
+      "label": "Hausinternes Maßnahmenpaket"
+    }
+  },
+  "fallbacks": {
+    "pmd_package": {
+      "class": "pmd_auto_package",
+      "label": "PMD-/automatisch ausgeleitetes Paket"
+    },
+    "unknown_package": {
+      "class": "unknown_or_needs_review",
+      "label": "Ungeklärt / manuell zu prüfen"
+    },
+    "lep_verified_service": {
+      "class": "lep_verified",
+      "label": "LEP-verifizierte Leistung"
+    },
+    "local_known_service": {
+      "class": "local_known",
+      "label": "Lokal bekannte Leistung"
+    },
+    "unmatched_service": {
+      "class": "needs_manual_classification",
+      "label": "Unbekannt / manuell zuordnen"
+    }
+  },
+  "review_categories": {
+    "needs_lep_or_local_classification": {
+      "label": "Unbekannte Leistung / fachlich zuordnen",
+      "priority": "hoch",
+      "review_question": "Ist dies eine eigenständige LEP-Leistung, eine hausinterne Leistung oder ein Spezialstandard?"
+    },
+    "possible_detail_or_property": {
+      "label": "Mögliches Detail / Eigenschaft",
+      "priority": "mittel",
+      "review_question": "Gehört dieser Eintrag als Eigenschaft unter eine konkrete Leistung?"
+    },
+    "possible_house_internal_or_org_item": {
+      "label": "Möglicherweise hausintern / organisatorisch",
+      "priority": "mittel",
+      "review_question": "Ist dies ein KH-interner Standard, eine Ablaufleistung oder ein organisatorischer Nachweis?"
+    },
+    "structural_planning_review": {
+      "label": "Strukturell auffällig / Planungslogik prüfen",
+      "priority": "hoch",
+      "review_question": "Steht dieser Eintrag im passenden Paket und an der richtigen Stelle der Planung?"
+    },
+    "pmd_context_review": {
+      "label": "PMD-Kontext prüfen",
+      "priority": "mittel",
+      "review_question": "Ist dieser Eintrag im PMD-Paket korrekt als Leistung geplant oder eher ein abgeleiteter Problem-/Detailtext?"
+    },
+    "specialty_specific_review": {
+      "label": "Fachbereichsspezifisch prüfen",
+      "priority": "mittel",
+      "review_question": "Ist dies eine fachbereichsspezifische Leistung, die bewusst als eigene Maßnahme existiert?"
+    }
+  }
+}

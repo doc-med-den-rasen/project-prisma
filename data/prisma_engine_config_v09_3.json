@@ -1,0 +1,8 @@
+{
+  "version": "v09.3",
+  "notes": [
+    "v09.3 bündelt Regelbefunde pro Leistungsanker.",
+    "v09.3 ergänzt lokale Alias-Matches für wiederkehrende Unmatched-Leistungen aus Test5-7.",
+    "Wenn keine Leistungszeilen vorhanden sind, wird die Match-Rate als n/a dargestellt."
+  ]
+}

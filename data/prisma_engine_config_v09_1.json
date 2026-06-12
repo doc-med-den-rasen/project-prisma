@@ -1,0 +1,12 @@
+{
+  "version": "v09.1",
+  "notes": "Engine-Konfiguration für v09.1. Zurzeit informativ, kann später per UI angebunden werden.",
+  "enabled_rules": {
+    "duplicate_same_service": true,
+    "included_redundancy": true,
+    "excluded_but_separate_check": true
+  },
+  "ui": {
+    "suggestion_top_n": 5
+  }
+}

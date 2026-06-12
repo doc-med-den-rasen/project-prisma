@@ -1,0 +1,15 @@
+{
+  "version": "v09.2",
+  "notes": "Engine-Konfiguration für v09.2. Fokus auf Match-Ausbau und transparente Trennung zwischen verifizierten und lokalen Matches.",
+  "enabled_rules": {
+    "duplicate_same_service": true,
+    "included_redundancy": true,
+    "excluded_but_separate_check": true
+  },
+  "ui": {
+    "suggestion_top_n": 5
+  },
+  "matching": {
+    "normalize_instance_suffixes": true
+  }
+}

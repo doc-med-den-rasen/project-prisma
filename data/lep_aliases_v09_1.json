@@ -1,0 +1,93 @@
+{
+  "version": "v09.1",
+  "aliases": [
+    {
+      "prisma_title": "An Bettrand mobilisieren",
+      "lep_title": "An Bettrand mobilisieren",
+      "lep_id": "I_22440",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Beim Gehen begleiten",
+      "lep_title": "Beim Gehen begleiten",
+      "lep_id": "I_22810",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "In das Bett mobilisieren",
+      "lep_title": "In das Bett mobilisieren",
+      "lep_id": "I_23575",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "In das Stehbrett mobilisieren",
+      "lep_title": "In das Stehbrett mobilisieren",
+      "lep_id": "I_22737",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "In Rollstuhl mobilisieren",
+      "lep_title": "In Rollstuhl mobilisieren",
+      "lep_id": "I_22734",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "In Stuhl/Lehnstuhl mobilisieren",
+      "lep_title": "In Stuhl/Lehnstuhl mobilisieren",
+      "lep_id": "I_22733",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Stehtraining durchführen",
+      "lep_title": "Stehtraining durchführen",
+      "lep_id": "I_23366",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Transfer durchführen",
+      "lep_title": "Transfer durchführen",
+      "lep_id": "I_23100",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Transfertraining durchführen",
+      "lep_title": "Transfertraining durchführen",
+      "lep_id": "I_30786",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Zum Stehen mobilisieren",
+      "lep_title": "Zum Stehen mobilisieren",
+      "lep_id": "I_23202",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    },
+    {
+      "prisma_title": "Auf neuen Liegeplatz umbetten",
+      "lep_title": "Auf neuen Liegeplatz umbetten",
+      "lep_id": "I_22460",
+      "match_type": "exact",
+      "synonyms": [],
+      "package_scopes": []
+    }
+  ]
+}
