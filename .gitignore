@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Lokale Python-Umgebungen
+.venv/
+venv/
+env/
+
+# Werkzeuge und Tests
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Lokale Konfiguration und Geheimnisse
+.env
+.streamlit/secrets.toml
+
+# Build- und Paketartefakte
+build/
+dist/
+*.egg-info/
+
+# Betriebssystem und Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Laufzeitausgaben
+*.log
+outputs/
+exports/
