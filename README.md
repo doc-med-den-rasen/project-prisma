@@ -1,63 +1,63 @@
 # Project PRISMA
 
-PRISMA analysiert anonymisierte Pflegepläne aus dem Grabber-TXT-Format. Der aktuelle Stand v10.2 bietet Einzel- und Corpus-Auswertungen, exaktes Matching, regelbasierte Hinweise und Review-Listen für unbekannte Leistungen.
+PRISMA ist ein gezieltes Copy-Paste-Werkzeug für die fachliche Kontrolle
+ausgewählter Pflegeleistungen. Es ersetzt keine pflegefachliche Bewertung und
+analysiert nicht automatisch einen vollständigen Pflegeplan.
 
-## Fachlicher Grundsatz
+## Aktueller Schwerpunkt
 
-PRISMA verwendet keine automatischen Fuzzy- oder Ähnlichkeitsmatches. Ähnlich klingende Maßnahmen bleiben getrennt, solange keine fachlich bestätigte Zuordnung vorliegt.
+Der Branch `feature/targeted-service-check` führt einen bewusst kleinen
+Arbeitsablauf ein:
+
+1. Auffällige Leistungen aus SAP kopieren.
+2. Eine Leistung pro Zeile in PRISMA einfügen.
+3. Titel ausschließlich exakt oder über bestätigte Aliase erkennen.
+4. Nur bestätigte Beziehungen zwischen den eingefügten Leistungen anzeigen.
 
 Beispiel:
 
-- `Vitalzeichen messen`
-- `Vitalzeichen mit Monitor messen`
+```text
+In Rollstuhl mobilisieren PV_4XTGL4 Aktiv
+In das Bett mobilisieren PV_3XTGL5 Aktiv
+Beim Gehen begleiten P_EINMAL Aktiv
+An Bettrand mobilisieren PV_3XTGL2 Aktiv
+```
 
-Matching ist ausschließlich über exakte Titel, manuell gepflegte Aliase und bestätigte LEP-IDs zulässig. Die Review-Kategorien sortieren unbekannte Einträge nur für die manuelle Prüfung und erzeugen keinen Match.
+Zykluscodes und Status dürfen mitkopiert werden. Reine Leistungstitel
+funktionieren ebenfalls.
 
-## Installation
+## Ausgaben
+
+- **Bereits eingeschlossen:** Eine eingefügte Leistung ist laut bestätigter
+  Regel in einer anderen eingefügten Leistung enthalten.
+- **Nicht eingeschlossen – separat prüfen:** Beide Leistungen wurden eingefügt,
+  die Regelmatrix weist aber ausdrücklich aus, dass eine die andere nicht
+  enthält.
+- **Erkannt, aber ohne Regelbefund:** Die Leistung ist bekannt, zwischen den
+  ausgewählten Einträgen besteht jedoch keine bestätigte Beziehung.
+- **Keine exakte Zuordnung:** Der Eintrag bleibt bewusst ungeklärt.
+
+PRISMA schlägt keine fehlenden Leistungen vor, bewertet keine medizinische
+Notwendigkeit und verwendet keine automatischen Fuzzy- oder
+Ähnlichkeitsmatches.
+
+## Installation und Start
 
 Voraussetzung ist Python 3.10 oder neuer.
 
 ```powershell
-python -m pip install -r requirements.txt
+py -V:3.14 -m pip install -r requirements.txt
+py -V:3.14 -m streamlit run app.py
 ```
 
-Eine virtuelle Umgebung ist optional. Falls sie genutzt wird, bleibt sie lokal und wird durch `.gitignore` nicht in Git aufgenommen.
-
-## Start
-
-```powershell
-python -m streamlit run app.py
-```
-
-## Aktive Projektstruktur
-
-```text
-app.py                       Streamlit-Oberfläche
-parser.py                    Grabber-TXT-Parser
-engine/                      Matching, Modelle und Regelprüfung
-data/                        Aktive Klassifikation, Aliase und LEP-Regeln
-tests/                       Schnelle Regressionstests
-samples/                     Platz für anonymisierte Grabber-TXT-Beispiele
-docs/PROJECT_STATUS.md       Fachlicher und technischer Projektstand
-archive/                     Frühere Versionen und alter XLSX-Pfad
-```
-
-Versionsnummern stehen bewusst nicht mehr in den aktiven Dateinamen. Neue Versionen werden in denselben Modulen weiterentwickelt und über Git nachvollzogen, statt parallele Dateikopien anzulegen.
+Eine virtuelle Umgebung ist optional.
 
 ## Tests
 
 ```powershell
-python -m unittest discover -s tests -v
+py -V:3.14 -m unittest discover -s tests -v
 ```
 
-Die Tests sichern insbesondere den Grabber-TXT-Import, eine bekannte Einschlussregel und den Grundsatz ab, dass ähnlich klingende Leistungen nicht automatisch zusammengeführt werden.
-
-## Empfohlener Arbeitsablauf
-
-1. Grabber-TXT oder ZIP mit mehreren Grabber-Dateien laden.
-2. Parser- und Match-Ergebnis prüfen.
-3. Unbekannte Leistungen als CSV-Reviewliste exportieren.
-4. Zuordnungen fachlich und manuell bestätigen.
-5. Erst danach Alias-, Klassifikations- oder Regelbasis gezielt erweitern.
-
-Frühere Zwischenstände und der nicht mehr aktive XLSX-Weg liegen nur zur Referenz unter `archive/`. Neue Entwicklung findet ausschließlich in der aktiven Struktur statt.
+Die bisherige vollständige Grabber-TXT- und Corpus-Analyse bleibt über die
+Git-Historie und unter `archive/` nachvollziehbar. Die neue Produktrichtung
+konzentriert sich auf den gezielten Leistungsabgleich im Audit.
